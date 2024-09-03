@@ -326,3 +326,26 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:59:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> agg
 [03Sep2024 21:59:41.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
 [03Sep2024 21:59:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[03Sep2024 22:00:03.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@774d256b[id=<null>,name=seta32,properties={},legacy=false] (/127.125.145.200:60809) lost connection: Disconnected
+[03Sep2024 22:00:10.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:49085] logged in with entity id 31549 at (-1139.9074687510458, 165.0625, 587.6999999880791)
+[03Sep2024 22:00:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[03Sep2024 22:00:10.724] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[03Sep2024 22:00:14.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[03Sep2024 22:00:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> tmr
+[03Sep2024 22:01:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 22:01:08.560] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:01:56.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
+[03Sep2024 22:01:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[03Sep2024 22:02:47.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:52703] logged in with entity id 32612 at (-1141.5112856374576, 169.0, 590.2979421908022)
+[03Sep2024 22:02:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[03Sep2024 22:02:47.575] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[03Sep2024 22:02:51.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03Sep2024 22:04:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 22:04:58.864] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:05:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 22:05:15.662] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:05:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [A Strange Grave Dust]
+[03Sep2024 22:07:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 22:07:10.369] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:09:54.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 22:09:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
