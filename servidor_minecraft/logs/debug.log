@@ -3370,3 +3370,35 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:38:52.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15016, l='ServerLevel[world]', x=-912.19, y=122.00, z=131.08] died, message: 'Unemployed was shot by Pillager'
 [03Sep2024 21:39:25.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2024 21:39:25.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:40:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Ambush]
+[03Sep2024 21:40:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[03Sep2024 21:40:35.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-849, y:119, z:162, dim:minecraft:overworld]
+[03Sep2024 21:40:35.109] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:42:14.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Acquire Hardware]
+[03Sep2024 21:42:19.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Isn't It Iron Pick]
+[03Sep2024 21:43:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Pillager
+[03Sep2024 21:43:48.903] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-874, y:132, z:126, dim:minecraft:overworld]
+[03Sep2024 21:43:48.906] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:44:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made seta32 a server operator
+[03Sep2024 21:44:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -872.500000, 131.500000, 123.500000]
+[03Sep2024 21:44:25.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:44:25.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:44:56.139] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots is being run through DFU (hash 1fcf0be77235eb2856b015f542c7567c1ee719faf21946285911305a59f6ef65), this will cause launch time delays
+[03Sep2024 21:44:56.258] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Sep2024 21:44:56.284] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_2 is being run through DFU (hash b4e6d6f8adb4631444b85f90fc9b38f3655d064b45331df77d1c5382a9ca4066), this will cause launch time delays
+[03Sep2024 21:44:57.049] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_1 is being run through DFU (hash ab9d22b46309dd0f3b6ff50525a972668f7e1252d75c23c4c87f0e674083fadf), this will cause launch time delays
+[03Sep2024 21:44:57.149] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[03Sep2024 21:44:57.258] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_0 is being run through DFU (hash b96961558dd2b2c5b3897933d59d4b2b818d81c46ea1bca6855970c9e4c9e5f1), this will cause launch time delays
+[03Sep2024 21:44:57.287] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[03Sep2024 21:44:57.395] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_1 is being run through DFU (hash bf1fe6d05f4bdf12b33740f4faf9d25c701fe0a54a385776ecc0401c15fa8956), this will cause launch time delays
+[03Sep2024 21:44:57.463] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_4 is being run through DFU (hash b659f3c9823f98408b37a1c703f780d12cd034dd71c3c7eff72bed23d356958e), this will cause launch time delays
+[03Sep2024 21:44:57.519] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[03Sep2024 21:44:57.750] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_2 is being run through DFU (hash 9d4e9f0575fb3ef5947214d3bcf696e678e6e05bdd3aa3d1ac0fb6ba0ea06fdf), this will cause launch time delays
+[03Sep2024 21:44:57.803] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
+[03Sep2024 21:44:58.075] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_0 is being run through DFU (hash d9aa0b9cab38f10282a26f4439eb12ad329aff97e2b7a26cdb6a6bab87c88887), this will cause launch time delays
+[03Sep2024 21:44:58.210] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
+[03Sep2024 21:45:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzzzzzzzz
+[03Sep2024 21:46:16.927] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_2 is being run through DFU (hash 9e1c91ef32150cb3905faf1749d9b2808c6a422b66f325c8868015cb7f7c5db7), this will cause launch time delays
+[03Sep2024 21:46:44.080] [Worker-Main-17/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[03Sep2024 21:49:25.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:49:25.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
