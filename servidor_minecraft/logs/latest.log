@@ -487,3 +487,25 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 23:09:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> no te veo ps
 [03Sep2024 23:09:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> toy bajo tierra ps
 [03Sep2024 23:09:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ah xuxa
+[03Sep2024 23:13:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa
+[03Sep2024 23:13:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzz
+[03Sep2024 23:13:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya decía de dónde vino la araña venenosa
+[03Sep2024 23:13:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> madera?
+[03Sep2024 23:13:52.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> antorcha?
+[03Sep2024 23:13:53.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [My Valentine]
+[03Sep2024 23:13:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> aja
+[03Sep2024 23:14:09.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ahi
+[03Sep2024 23:14:22.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> antorcha pasa
+[03Sep2024 23:15:10.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Diamonds!]
+[03Sep2024 23:15:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Diamonds!]
+[03Sep2024 23:16:39.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Massive Improvement]
+[03Sep2024 23:17:13.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 23:17:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 23:18:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[03Sep2024 23:18:13.749] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 23:19:50.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Topazzler]
+[03Sep2024 23:20:04.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:35143] logged in with entity id 64082 at (-1067.8552894110055, -43.0, -101.15371133117316)
+[03Sep2024 23:20:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 23:20:04.292] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 23:21:10.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 23:21:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
