@@ -209,3 +209,55 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 20:47:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Monster Hunter]
 [03Sep2024 20:48:21.417] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
 [03Sep2024 20:48:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [The Lighthouse]
+[03Sep2024 20:52:13.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:41751] logged in with entity id 4723 at (-209.5, 77.0, 140.5)
+[03Sep2024 20:52:13.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 20:52:13.182] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 20:52:39.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa como q de nuevo
+[03Sep2024 20:53:34.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Stone Age]
+[03Sep2024 20:53:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> verguenza
+[03Sep2024 20:54:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oe
+[03Sep2024 20:54:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> que
+[03Sep2024 20:54:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> todos aparecen en el mismo bloque?
+[03Sep2024 20:54:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> aveces
+[03Sep2024 20:54:58.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> no en el mismo pero cerca
+[03Sep2024 20:55:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa quería hacerles caer
+[03Sep2024 20:55:26.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Getting an Upgrade]
+[03Sep2024 20:56:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xaero-waypoint:aldea:A:-504:128:50:7:false:0:Internal-overworld-waypoints
+[03Sep2024 20:57:01.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Quicksilver]
+[03Sep2024 20:57:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Even Worse Than Copper]
+[03Sep2024 20:57:31.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzz
+[03Sep2024 20:57:38.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> no
+[03Sep2024 20:57:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ahgggg
+[03Sep2024 20:57:46.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 20:57:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 20:57:54.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:41909] logged in with entity id 6383 at (-237.69999998807907, 65.0, 95.69999998807907)
+[03Sep2024 20:57:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 20:57:54.635] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 20:57:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzz
+[03Sep2024 20:58:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> apura
+[03Sep2024 20:58:06.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 20:58:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 20:58:30.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:47545] logged in with entity id 6698 at (-237.69999998807907, 65.0, 95.30000001192093)
+[03Sep2024 20:58:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 20:58:30.467] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 20:58:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oee cayó un tridente
+[03Sep2024 20:58:58.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ??'
+[03Sep2024 20:59:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> un hundido
+[03Sep2024 20:59:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ahhh
+[03Sep2024 20:59:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ya agarre todos esos cofres
+[03Sep2024 20:59:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> corazón y medio tengo
+[03Sep2024 20:59:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> 5 veces mori
+[03Sep2024 20:59:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Even Worse Than Copper]
+[03Sep2024 21:04:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [More Metal]
+[03Sep2024 21:05:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [More Metal]
+[03Sep2024 21:06:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oe la wba pa la armadura rosa q tan profundo bajo?
+[03Sep2024 21:06:36.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ni idea
+[03Sep2024 21:06:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Might As Well Use Stone]
+[03Sep2024 21:07:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Tin Can]
+[03Sep2024 21:08:17.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> duerme
+[03Sep2024 21:08:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzz
+[03Sep2024 21:08:40.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 21:08:40.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 21:08:57.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:48963] logged in with entity id 9493 at (-317.69999998807907, 90.0, 201.66436457396614)
+[03Sep2024 21:08:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 21:08:57.954] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
