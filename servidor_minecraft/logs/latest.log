@@ -292,3 +292,37 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:44:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made seta32 a server operator
 [03Sep2024 21:44:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -872.500000, 131.500000, 123.500000]
 [03Sep2024 21:45:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzzzzzzzz
+[03Sep2024 21:50:33.505] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Sep2024 21:50:33.512] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[03Sep2024 21:50:33.513] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Sep2024 21:50:38.349] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Sep2024 21:50:38.358] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Sep2024 21:52:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pasa ubi
+[03Sep2024 21:52:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[03Sep2024 21:52:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Your First Grave]
+[03Sep2024 21:52:11.033] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[03Sep2024 21:52:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ahg
+[03Sep2024 21:52:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ptmr toy lejasps te lo muerte
+[03Sep2024 21:53:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [The Lighthouse]
+[03Sep2024 21:55:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[03Sep2024 21:55:19.559] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:55:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> otro ps
+[03Sep2024 21:55:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1129.500000, 165.500000, 598.500000]
+[03Sep2024 21:55:35.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[03Sep2024 21:56:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> <
+[03Sep2024 21:56:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzz
+[03Sep2024 21:56:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> todavía no tengo mis cosas
+[03Sep2024 21:56:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> toy cerca
+[03Sep2024 21:57:31.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzz
+[03Sep2024 21:58:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa
+[03Sep2024 21:58:44.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:58:44.861] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:58:53.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[03Sep2024 21:59:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:59:11.058] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:59:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:59:19.856] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:59:20.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[03Sep2024 21:59:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> agg
+[03Sep2024 21:59:41.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[03Sep2024 21:59:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game

@@ -3402,3 +3402,89 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:46:44.080] [Worker-Main-17/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
 [03Sep2024 21:49:25.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2024 21:49:25.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:49:52.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:50:33.505] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Sep2024 21:50:33.512] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[03Sep2024 21:50:33.513] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Sep2024 21:50:38.349] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Sep2024 21:50:38.358] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Sep2024 21:51:46.692] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[03Sep2024 21:52:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pasa ubi
+[03Sep2024 21:52:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[03Sep2024 21:52:11.029] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-955, y:1, z:-64, dim:minecraft:overworld]
+[03Sep2024 21:52:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Your First Grave]
+[03Sep2024 21:52:11.033] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[03Sep2024 21:52:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ahg
+[03Sep2024 21:52:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ptmr toy lejasps te lo muerte
+[03Sep2024 21:53:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [The Lighthouse]
+[03Sep2024 21:53:38.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:54:04.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:54:04.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[03Sep2024 21:54:09.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 21:54:17.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[03Sep2024 21:54:17.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[03Sep2024 21:54:17.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[03Sep2024 21:54:17.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[03Sep2024 21:54:17.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[03Sep2024 21:54:17.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[03Sep2024 21:54:17.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[03Sep2024 21:54:17.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[03Sep2024 21:54:17.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[03Sep2024 21:54:17.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[03Sep2024 21:54:17.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[03Sep2024 21:54:25.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:54:25.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:54:34.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 21:55:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[03Sep2024 21:55:19.549] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-1129, y:165, z:597, dim:minecraft:overworld]
+[03Sep2024 21:55:19.559] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:55:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> otro ps
+[03Sep2024 21:55:26.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Sep2024 21:55:26.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03Sep2024 21:55:26.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03Sep2024 21:55:26.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[03Sep2024 21:55:26.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03Sep2024 21:55:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1129.500000, 165.500000, 598.500000]
+[03Sep2024 21:55:27.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:55:28.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Sep2024 21:55:34.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:55:35.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[03Sep2024 21:55:35.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 21:55:55.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:56:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> <
+[03Sep2024 21:56:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzz
+[03Sep2024 21:56:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> todavía no tengo mis cosas
+[03Sep2024 21:56:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> toy cerca
+[03Sep2024 21:57:31.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzz
+[03Sep2024 21:58:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa
+[03Sep2024 21:58:44.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:58:44.848] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-1139, y:169, z:584, dim:minecraft:overworld]
+[03Sep2024 21:58:44.861] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:58:47.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Sep2024 21:58:47.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03Sep2024 21:58:47.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03Sep2024 21:58:47.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[03Sep2024 21:58:47.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03Sep2024 21:58:50.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Sep2024 21:58:53.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[03Sep2024 21:58:53.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:58:54.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 21:59:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:59:11.058] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:59:12.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Sep2024 21:59:12.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03Sep2024 21:59:12.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03Sep2024 21:59:12.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[03Sep2024 21:59:12.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03Sep2024 21:59:13.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:59:15.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Sep2024 21:59:19.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:59:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[03Sep2024 21:59:19.856] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 21:59:20.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 21:59:20.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[03Sep2024 21:59:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> agg
+[03Sep2024 21:59:32.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:59:32.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:59:41.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[03Sep2024 21:59:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
