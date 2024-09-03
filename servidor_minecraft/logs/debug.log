@@ -4034,3 +4034,39 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:30:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1384.500000, -33.500000, 722.500000]
 [03Sep2024 22:30:10.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [03Sep2024 22:30:11.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[03Sep2024 22:30:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xaero-waypoint:cueva:C:-1445:-22:745:5:false:0:Internal-overworld-waypoints
+[03Sep2024 22:31:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> más lejos q antes
+[03Sep2024 22:34:43.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 22:34:43.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 22:36:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Knowledge of Death]
+[03Sep2024 22:36:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Ashes 'n Bones]
+[03Sep2024 22:36:09.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Knowledge raises the soul]
+[03Sep2024 22:36:28.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Sep2024 22:37:32.865] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Sep2024 22:39:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Alex's Caves]
+[03Sep2024 22:39:43.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 22:39:43.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 22:40:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Once Upon a Cave]
+[03Sep2024 22:40:16.799] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1457, y=65, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:17.799] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1457, y=64, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:18.715] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1457, y=66, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:21.650] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1453, y=64, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:22.474] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1453, y=63, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:23.302] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1453, y=65, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:24.100] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1453, y=66, z=634}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:29.451] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1458, y=64, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:30.251] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1458, y=63, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:31.153] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1458, y=65, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [It Belongs in a Museum]
+[03Sep2024 22:40:32.805] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1457, y=65, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:34.597] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1458, y=66, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:36.463] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1458, y=67, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:39.106] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1455, y=65, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:39.902] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=65, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:41.005] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=64, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:41.803] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=63, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:44.062] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=66, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:44.848] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=67, z=644}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:46.799] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=67, z=645}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:49.821] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=67, z=646}) doesn't have enough leaves around top most log
+[03Sep2024 22:40:50.759] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1454, y=67, z=647}) doesn't have enough leaves around top most log

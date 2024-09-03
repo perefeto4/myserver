@@ -390,3 +390,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:30:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Vallumraptor
 [03Sep2024 22:30:01.953] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [03Sep2024 22:30:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1384.500000, -33.500000, 722.500000]
+[03Sep2024 22:30:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xaero-waypoint:cueva:C:-1445:-22:745:5:false:0:Internal-overworld-waypoints
+[03Sep2024 22:31:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> más lejos q antes
+[03Sep2024 22:36:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Knowledge of Death]
+[03Sep2024 22:36:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Ashes 'n Bones]
+[03Sep2024 22:36:09.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Knowledge raises the soul]
+[03Sep2024 22:39:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Alex's Caves]
+[03Sep2024 22:40:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Once Upon a Cave]
+[03Sep2024 22:40:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [It Belongs in a Museum]
