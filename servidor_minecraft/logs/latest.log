@@ -406,3 +406,25 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:48:38.760] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 2447 -58 3318 in 3s
 [03Sep2024 22:48:38.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
 [03Sep2024 22:49:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa me tocó el mapa de las wba con imanes
+[03Sep2024 22:51:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [My Valentine]
+[03Sep2024 22:52:19.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50500, l='ServerLevel[world]', x=-1420.96, y=96.00, z=653.67] died, message: 'Unemployed was slain by Zombie'
+[03Sep2024 22:52:26.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/50499, l='ServerLevel[world]', x=-1446.66, y=79.00, z=660.81] died, message: 'Mason hit the ground too hard whilst trying to escape Zombie'
+[03Sep2024 22:53:45.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50508, l='ServerLevel[world]', x=-1455.83, y=63.00, z=650.73] died, message: 'Unemployed was slain by Zombie'
+[03Sep2024 22:54:14.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 22:54:14.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 22:54:31.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:60989] logged in with entity id 53026 at (-1029.727897552084, -44.0, -121.5244717449672)
+[03Sep2024 22:54:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 22:54:31.026] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 22:54:36.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[03Sep2024 22:56:36.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[03Sep2024 22:56:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 22:57:44.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:46709] logged in with entity id 53932 at (-1027.643969062021, -42.0, -124.49732811221749)
+[03Sep2024 22:57:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 22:57:44.384] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 22:58:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has reached the goal [Strong or Careful]
+[03Sep2024 22:58:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Zombie
+[03Sep2024 22:58:09.176] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[03Sep2024 22:58:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[03Sep2024 22:58:14.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[03Sep2024 22:58:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 22:58:25.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
