@@ -368,3 +368,25 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:16:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> pera cuál la opción pa las ubicaciones?
 [03Sep2024 22:16:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzz
 [03Sep2024 22:16:40.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
+[03Sep2024 22:23:16.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Suit Up]
+[03Sep2024 22:25:49.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [The Cave That Time Forgot]
+[03Sep2024 22:25:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Town of Bedrock]
+[03Sep2024 22:27:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[03Sep2024 22:27:27.682] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:27:38.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> vergüenza
+[03Sep2024 22:27:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> seguro se bajo del avion
+[03Sep2024 22:28:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> No lo hago
+[03Sep2024 22:28:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> encontre la cueva de alex cave
+[03Sep2024 22:28:22.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> y me cai
+[03Sep2024 22:28:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Topazzler]
+[03Sep2024 22:29:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1402.500000, -32.500000, 691.500000]
+[03Sep2024 22:29:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> hay dinos
+[03Sep2024 22:29:31.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> tamea al pteranodon
+[03Sep2024 22:29:33.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Vallumraptor
+[03Sep2024 22:29:33.981] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:29:38.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[03Sep2024 22:29:38.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> yra
+[03Sep2024 22:29:39.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1400.500000, -32.500000, 702.500000]
+[03Sep2024 22:30:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Vallumraptor
+[03Sep2024 22:30:01.953] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:30:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1384.500000, -33.500000, 722.500000]
