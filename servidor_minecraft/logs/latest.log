@@ -349,3 +349,22 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:07:10.369] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [03Sep2024 22:09:54.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
 [03Sep2024 22:09:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 22:10:12.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:60637] logged in with entity id 35764 at (-994.7614032041089, -38.0, -85.51003088125881)
+[03Sep2024 22:10:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 22:10:12.574] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 22:14:27.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Ashes 'n Bones]
+[03Sep2024 22:14:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ontas
+[03Sep2024 22:14:46.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> nose
+[03Sep2024 22:14:56.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xaero-waypoint:nose:N:-1140:175:587:4:false:0:Internal-overworld-waypoints
+[03Sep2024 22:15:24.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> te alejaste más q yo
+[03Sep2024 22:15:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> puedo volar
+[03Sep2024 22:15:48.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> agggg
+[03Sep2024 22:15:50.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> onde estas
+[03Sep2024 22:15:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pasa ubi
+[03Sep2024 22:15:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> minando
+[03Sep2024 22:15:57.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved too quickly! -6.981128516644503,0.0,-7.998494117106134
+[03Sep2024 22:16:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> acá no vuelas xd
+[03Sep2024 22:16:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> igual pasa
+[03Sep2024 22:16:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> pera cuál la opción pa las ubicaciones?
+[03Sep2024 22:16:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzz
+[03Sep2024 22:16:40.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
