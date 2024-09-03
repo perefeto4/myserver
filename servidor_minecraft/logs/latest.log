@@ -265,3 +265,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:11:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ve
 [03Sep2024 21:16:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Very Balt Of You]
 [03Sep2024 21:18:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
+[03Sep2024 21:19:09.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Sweet Dreams]
+[03Sep2024 21:19:11.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzz
+[03Sep2024 21:19:44.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[03Sep2024 21:19:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[03Sep2024 21:20:04.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:55215] logged in with entity id 13782 at (-388.8333367505338, 22.0, 19.30000001192093)
+[03Sep2024 21:20:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[03Sep2024 21:20:04.290] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[03Sep2024 21:23:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Acquire Hardware]
