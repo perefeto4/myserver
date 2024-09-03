@@ -543,3 +543,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 23:31:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> que hace el pico de amatista?
 [03Sep2024 23:31:16.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> picar :v
 [03Sep2024 23:31:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> pero si quieres lo usas de arma
+[03Sep2024 23:32:36.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Fiery Diamond]
+[03Sep2024 23:37:01.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[03Sep2024 23:37:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 23:37:16.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:44637] logged in with entity id 69201 at (-1084.2128659437267, -47.0, -195.8204270231237)
+[03Sep2024 23:37:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 23:37:17.011] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 23:37:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> mesa de crafteo tienes?
+[03Sep2024 23:37:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> te di madera
+[03Sep2024 23:38:47.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! -5.042853603015828,0.16610926093821377,8.72810339383122
+[03Sep2024 23:39:11.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ?
+[03Sep2024 23:39:15.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> mesa=
+[03Sep2024 23:40:15.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> precoz
+[03Sep2024 23:40:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> xd
+[03Sep2024 23:40:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> me hice otro pantalon ptmr
+[03Sep2024 23:40:35.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! 6.022701610242848,5.001335979112149,-6.553312160442033
+[03Sep2024 23:40:45.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> regala ps
+[03Sep2024 23:40:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> regala
+[03Sep2024 23:41:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> baje pierdo mi caída de pluma
