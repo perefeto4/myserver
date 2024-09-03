@@ -184,3 +184,28 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 20:33:55.265] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
 [03Sep2024 20:37:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Stone Age]
 [03Sep2024 20:37:59.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Getting an Upgrade]
+[03Sep2024 20:39:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was impaled by Drowned
+[03Sep2024 20:39:27.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Your First Grave]
+[03Sep2024 20:39:27.748] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:39:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Discreet Search]
+[03Sep2024 20:40:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was impaled by Drowned
+[03Sep2024 20:40:24.800] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:40:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Knowledge of Death]
+[03Sep2024 20:40:48.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Chain Death]
+[03Sep2024 20:40:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was impaled by Drowned
+[03Sep2024 20:40:48.958] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:41:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was impaled by Drowned
+[03Sep2024 20:41:31.602] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:41:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [The Negotiator]
+[03Sep2024 20:42:00.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [It Belongs in a Museum]
+[03Sep2024 20:43:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was impaled by Drowned
+[03Sep2024 20:43:13.053] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:43:58.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Here They Come]
+[03Sep2024 20:44:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Quicksilver]
+[03Sep2024 20:44:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[03Sep2024 20:44:45.615] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 20:45:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Fishy Business]
+[03Sep2024 20:46:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Sweet Dreams]
+[03Sep2024 20:47:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Monster Hunter]
+[03Sep2024 20:48:21.417] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Sep2024 20:48:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [The Lighthouse]
