@@ -261,3 +261,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:08:57.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:48963] logged in with entity id 9493 at (-317.69999998807907, 90.0, 201.66436457396614)
 [03Sep2024 21:08:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
 [03Sep2024 21:08:57.954] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 21:10:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Might As Well Use Stone]
+[03Sep2024 21:11:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ve
+[03Sep2024 21:16:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Very Balt Of You]
+[03Sep2024 21:18:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz

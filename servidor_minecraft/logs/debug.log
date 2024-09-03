@@ -3183,3 +3183,30 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 21:08:57.785] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 177 classes
 [03Sep2024 21:08:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
 [03Sep2024 21:08:57.954] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 21:09:25.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:09:25.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:10:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Might As Well Use Stone]
+[03Sep2024 21:11:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ve
+[03Sep2024 21:12:27.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Sep2024 21:12:32.444] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[03Sep2024 21:12:32.528] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[03Sep2024 21:12:32.565] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_2 is being run through DFU (hash 5dcdc15ff909e031ef282fcfbfcf1b272000f6f5b07a68ec1c1d53ce15a9501e), this will cause launch time delays
+[03Sep2024 21:12:32.584] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_1 is being run through DFU (hash a1483b8f75e150ae19b7d93a82a12b57e707fc5ffe525b2134a341d967d91b56), this will cause launch time delays
+[03Sep2024 21:12:32.599] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_0 is being run through DFU (hash 2cd1bc01e2ef5b512bceb248b598da38d174fe273c20004578927c9480c55468), this will cause launch time delays
+[03Sep2024 21:12:32.642] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_1 is being run through DFU (hash 4fe802a26cac59fd677ec3da19df08f21372ca7ac1ec323283c274d63ce93343), this will cause launch time delays
+[03Sep2024 21:12:32.668] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0 is being run through DFU (hash 4531e4a1c231841a0733a93ca24c388ab8751ebc7ca192aa3cf71507ae06c44a), this will cause launch time delays
+[03Sep2024 21:12:32.674] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0 is being run through DFU (hash ec681d08a0afabe245754b4760984520048ae6720cb4bfb9e9d492f8d01c2884), this will cause launch time delays
+[03Sep2024 21:12:32.944] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_3 is being run through DFU (hash 4a7d454dfed90309aabf16a32b78c879d63c99efdddf37b4ce06267dc2a79047), this will cause launch time delays
+[03Sep2024 21:12:32.963] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_0 is being run through DFU (hash 2fd728543984020d4f1d04343ff9e30e35f5e4f813f2f41d3f27bccd6d2dd45f), this will cause launch time delays
+[03Sep2024 21:12:32.976] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_3 is being run through DFU (hash 9be7dc68dca9b93ac37c1224d077f55016a289e6e177eb7fcbafb1b0be4732eb), this will cause launch time delays
+[03Sep2024 21:12:32.981] [Worker-Main-23/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_2 is being run through DFU (hash 2445d4f294b23c401119622c9de2a97f3ea54b9d66f5562660d5fb3ea715d4c5), this will cause launch time delays
+[03Sep2024 21:14:11.058] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[03Sep2024 21:14:11.188] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[03Sep2024 21:14:11.218] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_3 is being run through DFU (hash 1fb1f3a011acba9a26f6e07662f34071686d7f8e873f64780ad8787d4b83da0a), this will cause launch time delays
+[03Sep2024 21:14:11.549] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[03Sep2024 21:14:11.588] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[03Sep2024 21:14:25.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2024 21:14:25.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2024 21:15:00.783] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Sep2024 21:16:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Very Balt Of You]
+[03Sep2024 21:18:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
