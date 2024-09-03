@@ -509,3 +509,37 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 23:20:04.292] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
 [03Sep2024 23:21:10.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
 [03Sep2024 23:21:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 23:22:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was blown up by Creeper
+[03Sep2024 23:22:11.904] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 23:23:09.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:40475] logged in with entity id 65144 at (-1025.0019847438907, -43.0, -115.7192120945907)
+[03Sep2024 23:23:09.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 23:23:09.622] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 23:23:37.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Not Today, Thank You]
+[03Sep2024 23:25:23.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62a48530[id=<null>,name=fabri,properties={},legacy=false] (/127.177.140.253:49495) lost connection: Disconnected
+[03Sep2024 23:25:24.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[03Sep2024 23:25:24.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[03Sep2024 23:25:30.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.177.140.253:36441] logged in with entity id 65627 at (-1075.1302918551396, -38.90697591045117, -102.75501910293752)
+[03Sep2024 23:25:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 23:25:30.591] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 23:25:38.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> spaw de esqueletos
+[03Sep2024 23:25:59.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> y mi internet como el de los 80
+[03Sep2024 23:26:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Take Aim]
+[03Sep2024 23:27:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was blown up by Creeper
+[03Sep2024 23:27:04.751] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 23:27:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> vergüenza
+[03Sep2024 23:28:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[03Sep2024 23:28:22.850] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[03Sep2024 23:28:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> verguenza
+[03Sep2024 23:28:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[03Sep2024 23:28:53.546] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 23:28:56.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> xd
+[03Sep2024 23:29:01.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> por hablar
+[03Sep2024 23:29:05.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> oe el escudo esta bugeado
+[03Sep2024 23:29:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> yo no morí por creeper
+[03Sep2024 23:29:16.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> yo ni uso escudo
+[03Sep2024 23:30:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oe pásate un diamante
+[03Sep2024 23:30:17.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> te doy un pico de amastista
+[03Sep2024 23:30:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Fiery Diamond]
+[03Sep2024 23:31:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> que hace el pico de amatista?
+[03Sep2024 23:31:16.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> picar :v
+[03Sep2024 23:31:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> pero si quieres lo usas de arma
