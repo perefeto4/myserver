@@ -398,3 +398,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:39:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Alex's Caves]
 [03Sep2024 22:40:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Once Upon a Cave]
 [03Sep2024 22:40:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [It Belongs in a Museum]
+[03Sep2024 22:44:12.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Lorem Ipsum]
+[03Sep2024 22:46:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was killed by Witch using magic
+[03Sep2024 22:46:55.558] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 22:47:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1447.500000, 7.500000, 561.500000]
+[03Sep2024 22:48:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [The Journey Begins]
+[03Sep2024 22:48:38.760] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 2447 -58 3318 in 3s
+[03Sep2024 22:48:38.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[03Sep2024 22:49:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa me tocó el mapa de las wba con imanes
