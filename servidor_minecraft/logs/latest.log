@@ -428,3 +428,62 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Sep2024 22:58:14.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
 [03Sep2024 22:58:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
 [03Sep2024 22:58:25.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[03Sep2024 23:01:17.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:48063] logged in with entity id 55671 at (-1027.643969062021, -42.0, -124.49732811221749)
+[03Sep2024 23:01:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[03Sep2024 23:01:17.652] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[03Sep2024 23:01:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ya hiciste
+[03Sep2024 23:01:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has reached the goal [Here They Come]
+[03Sep2024 23:01:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> q?
+[03Sep2024 23:02:01.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 3.597910735031064,2.2761407575877968,-10.150667626454435
+[03Sep2024 23:02:01.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 4.075373742864258,2.583508611881115,-11.520997089194509
+[03Sep2024 23:02:01.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 4.557822559135047,2.893771302387421,-12.908846575537382
+[03Sep2024 23:02:01.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 5.045044694601756,3.206317491250587,-14.312785998498953
+[03Sep2024 23:02:01.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 5.536881002946075,3.520565267794751,-15.731452880404674
+[03Sep2024 23:02:01.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 6.0332191288546255,3.8359654631696003,-17.163550449868126
+[03Sep2024 23:02:01.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 6.533985821651186,4.1520052495021105,-18.607845540966593
+[03Sep2024 23:02:01.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 7.039139256376302,4.468211779949456,-20.0631659430191
+[03Sep2024 23:02:01.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 7.548661089643019,4.7841559935276905,-21.528398808814813
+[03Sep2024 23:02:01.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 8.062548947205642,5.099456177192849,-23.0024888155545
+[03Sep2024 23:02:01.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 5.4551026502074365,3.4414751466238442,-15.68507729906321
+[03Sep2024 23:02:01.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 5.977740081406182,3.7545470400221745,-17.17393726363872
+[03Sep2024 23:02:01.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 6.504754979625204,4.066143389769763,-18.66881711063911
+[03Sep2024 23:02:01.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 7.036133534297278,4.376098526957151,-20.168875192441988
+[03Sep2024 23:02:01.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 7.571842791624476,4.684304393327295,-21.673319942876844
+[03Sep2024 23:02:28.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> el biplano
+[03Sep2024 23:02:31.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -6.483781935250136,-0.8512452157470136,8.152435761521701
+[03Sep2024 23:02:53.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[03Sep2024 23:02:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> q es
+[03Sep2024 23:03:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [A Strange Grave Dust]
+[03Sep2024 23:03:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> el avion
+[03Sep2024 23:04:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> sigo en cueva
+[03Sep2024 23:04:46.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 7.957771865649647,1.0155895364245566,6.450885754212379
+[03Sep2024 23:04:46.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 8.490995842572147,1.185269596995255,6.895320536250324
+[03Sep2024 23:04:46.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 9.013639104239473,1.3583457156612155,7.3324320712804365
+[03Sep2024 23:04:46.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 9.526133482426985,1.5336428365378652,7.762462985736988
+[03Sep2024 23:04:46.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 10.028926153602242,1.710148394886744,8.185666456926128
+[03Sep2024 23:04:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oe tmr me aparecieron bichos en la cara
+[03Sep2024 23:05:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> jajaja
+[03Sep2024 23:05:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> matalos ps
+[03Sep2024 23:05:23.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 9.811390607053909,-0.8948924611019322,-2.825803795803381
+[03Sep2024 23:05:23.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 10.617711775539192,-0.7565308719545527,-3.0655155775618255
+[03Sep2024 23:05:23.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 11.400706118068229,-0.5922276041930843,-3.2991087643428614
+[03Sep2024 23:05:23.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 12.159516587948701,-0.4054715828366682,-3.526172854637366
+[03Sep2024 23:05:23.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 12.893769595488493,-0.199735935602817,-3.7464486272868953
+[03Sep2024 23:05:35.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 blew up
+[03Sep2024 23:05:35.891] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[03Sep2024 23:05:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> xd
+[03Sep2024 23:05:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1034.500000, 124.500000, 340.500000]
+[03Sep2024 23:05:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> por el avión seguro
+[03Sep2024 23:05:46.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[03Sep2024 23:06:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xd
+[03Sep2024 23:06:10.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zy
+[03Sep2024 23:06:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pasa ubi
+[03Sep2024 23:07:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> xaero-waypoint:z:Z:-1044:-43:-106:4:false:0:Internal-overworld-waypoints
+[03Sep2024 23:07:19.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[03Sep2024 23:08:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> te veo en el mapa
+[03Sep2024 23:08:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> yo no
+[03Sep2024 23:08:54.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ahora
+[03Sep2024 23:09:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> deja der vueltas
+[03Sep2024 23:09:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> no te veo ps
+[03Sep2024 23:09:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> toy bajo tierra ps
+[03Sep2024 23:09:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ah xuxa
