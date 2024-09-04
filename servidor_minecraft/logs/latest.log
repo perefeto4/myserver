@@ -592,3 +592,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 21:28:44.908] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [04Sep2024 21:29:24.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Fortuitous Militia]
 [04Sep2024 21:35:12.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[04Sep2024 21:44:49.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[04Sep2024 21:44:49.704] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 21:52:39.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[04Sep2024 21:52:39.604] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
