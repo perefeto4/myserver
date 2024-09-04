@@ -677,3 +677,28 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 23:45:57.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/157142, l='ServerLevel[world]', x=-1098.48, y=132.00, z=791.58] died, message: 'Unemployed was slain by Zombie'
 [04Sep2024 23:47:36.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzzzzz
 [04Sep2024 23:47:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> voy
+[04Sep2024 23:48:13.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> fabri duerme
+[04Sep2024 23:48:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzxzz
+[04Sep2024 23:49:00.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
+[04Sep2024 23:49:00.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[04Sep2024 23:49:19.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:36973] logged in with entity id 158894 at (-1103.5, 106.0, 834.5)
+[04Sep2024 23:49:19.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[04Sep2024 23:49:19.427] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[04Sep2024 23:49:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Where Is The Stone Pen?]
+[04Sep2024 23:49:36.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[04Sep2024 23:49:36.607] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:49:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[04Sep2024 23:50:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[04Sep2024 23:50:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was doomed to fall by Skeleton
+[04Sep2024 23:50:20.574] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:50:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Wither Skeleton
+[04Sep2024 23:50:53.941] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:51:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 23:51:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[04Sep2024 23:51:29.309] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 23:53:04.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 9.420863728126733,-3.8963956912045887,1.3229663509525835
+[04Sep2024 23:53:04.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! 10.25374385065345,-4.1398888662994295,1.3299070093116825
+[04Sep2024 23:55:02.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 23:55:38.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[04Sep2024 23:55:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Enderman
+[04Sep2024 23:55:43.998] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
