@@ -343,3 +343,51 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 20:09:04.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43715, l='ServerLevel[world]', x=-945.44, y=55.00, z=1057.11] died: Unlicensed Alchemist was slain by fabri
 [04Sep2024 20:09:53.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43741, l='ServerLevel[world]', x=-946.53, y=55.00, z=1053.44] died: Unlicensed Alchemist was slain by fabri
 [04Sep2024 20:10:02.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43743, l='ServerLevel[world]', x=-946.50, y=55.00, z=1053.49] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:10:14.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43737, l='ServerLevel[world]', x=-946.49, y=55.00, z=1053.40] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:10:35.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43739, l='ServerLevel[world]', x=-950.51, y=56.00, z=1053.63] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:10:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was killed by Potion using magic
+[04Sep2024 20:10:37.161] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:10:55.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43745, l='ServerLevel[world]', x=-950.49, y=56.00, z=1053.56] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:11:46.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/45577, l='ServerLevel[world]', x=-961.85, y=55.00, z=1056.34] died: Drunken Villager was slain by fabri
+[04Sep2024 20:12:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:12:29.510] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:12:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:12:38.306] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:12:58.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/46573, l='ServerLevel[world]', x=-959.70, y=54.00, z=1048.78] died: Drunken Villager was slain by fabri
+[04Sep2024 20:13:02.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/46484, l='ServerLevel[world]', x=-952.85, y=55.00, z=1063.34] died: Drunken Villager fell from a high place
+[04Sep2024 20:13:08.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:13:08.407] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:14:00.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/47117, l='ServerLevel[world]', x=-961.50, y=55.00, z=1056.34] died: Drunken Villager was slain by fabri
+[04Sep2024 20:14:00.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:14:00.920] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:14:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:14:31.456] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:14:36.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/48411, l='ServerLevel[world]', x=-923.36, y=84.50, z=1066.10] died, message: 'Leatherworker was slain by Zombie'
+[04Sep2024 20:14:55.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48410, l='ServerLevel[world]', x=-937.70, y=87.17, z=1066.47] died, message: 'Unemployed was slain by Zombie Villager'
+[04Sep2024 20:15:17.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48484, l='ServerLevel[world]', x=-915.66, y=79.77, z=1067.49] died, message: 'Unemployed was slain by Zombie Villager'
+[04Sep2024 20:15:54.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48406, l='ServerLevel[world]', x=-919.53, y=82.00, z=1078.34] died, message: 'Unemployed was slain by Zombie Villager'
+[04Sep2024 20:18:09.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:18:09.511] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:18:09.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48438, l='ServerLevel[world]', x=-967.93, y=52.00, z=1056.15] died: Drunken Villager was slain by fabri
+[04Sep2024 20:18:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> y sigue ps
+[04Sep2024 20:18:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> hay un monton
+[04Sep2024 20:18:36.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:18:36.821] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:18:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pera me voy a dar admin
+[04Sep2024 20:18:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> nd pera los mato
+[04Sep2024 20:19:00.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya rompí el spawn
+[04Sep2024 20:19:02.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[04Sep2024 20:19:06.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49163, l='ServerLevel[world]', x=-961.15, y=52.00, z=1056.25] died: Drunken Villager was slain by fabri
+[04Sep2024 20:19:08.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:19:08.555] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:19:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to fabri]
+[04Sep2024 20:19:23.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51215, l='ServerLevel[world]', x=-960.15, y=52.00, z=1056.17] died: Drunken Villager was slain by fabri
+[04Sep2024 20:19:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:19:26.517] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:19:40.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:19:41.000] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:19:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:19:56.009] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:20:12.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51214, l='ServerLevel[world]', x=-959.15, y=53.00, z=1056.85] died: Drunken Villager was slain by fabri
+[04Sep2024 20:20:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> hay mas spawn
+[04Sep2024 20:20:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> rompí varios
