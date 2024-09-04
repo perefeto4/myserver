@@ -2873,3 +2873,221 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:58:40.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/36053, l='ServerLevel[world]', x=-952.62, y=57.00, z=1068.99] died: Unlicensed Alchemist was slain by fabri
 [04Sep2024 19:59:00.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/35812, l='ServerLevel[world]', x=-952.61, y=57.00, z=1068.93] died: Unlicensed Alchemist was slain by fabri
 [04Sep2024 19:59:22.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/35810, l='ServerLevel[world]', x=-952.61, y=57.00, z=1068.94] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 19:59:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZZZZZZZZZZ
+[04Sep2024 20:00:10.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/36212, l='ServerLevel[world]', x=-952.53, y=57.00, z=1068.82] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:00:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was killed by Potion using magic
+[04Sep2024 20:00:11.705] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-951, y:58, z:1066, dim:minecraft:overworld]
+[04Sep2024 20:00:11.713] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:00:13.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[04Sep2024 20:00:13.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[04Sep2024 20:00:13.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[04Sep2024 20:00:13.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[04Sep2024 20:00:13.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[04Sep2024 20:00:13.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[04Sep2024 20:00:13.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[04Sep2024 20:00:13.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[04Sep2024 20:00:13.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[04Sep2024 20:00:13.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[04Sep2024 20:00:13.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[04Sep2024 20:00:13.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[04Sep2024 20:00:13.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[04Sep2024 20:00:13.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[04Sep2024 20:00:13.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[04Sep2024 20:00:13.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[04Sep2024 20:00:13.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[04Sep2024 20:00:13.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[04Sep2024 20:00:13.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[04Sep2024 20:00:13.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[04Sep2024 20:00:13.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[04Sep2024 20:00:13.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[04Sep2024 20:00:13.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[04Sep2024 20:00:13.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[04Sep2024 20:00:13.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[04Sep2024 20:00:13.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[04Sep2024 20:00:13.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 20:00:22.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:00:22.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:00:23.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:00:24.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> AH
+[04Sep2024 20:00:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> AHG
+[04Sep2024 20:00:28.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/36661, l='ServerLevel[world]', x=-952.62, y=57.00, z=1068.99] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:00:44.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:00:44.498] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-952, y:57, z:1066, dim:minecraft:overworld]
+[04Sep2024 20:00:44.514] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:00:45.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[04Sep2024 20:00:45.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[04Sep2024 20:00:45.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[04Sep2024 20:00:45.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[04Sep2024 20:00:45.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[04Sep2024 20:00:45.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[04Sep2024 20:00:45.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[04Sep2024 20:00:45.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[04Sep2024 20:00:45.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[04Sep2024 20:00:45.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[04Sep2024 20:00:45.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[04Sep2024 20:00:45.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[04Sep2024 20:00:45.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[04Sep2024 20:00:45.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[04Sep2024 20:00:45.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[04Sep2024 20:00:45.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[04Sep2024 20:00:45.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[04Sep2024 20:00:45.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[04Sep2024 20:00:45.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[04Sep2024 20:00:45.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[04Sep2024 20:00:45.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[04Sep2024 20:00:45.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[04Sep2024 20:00:45.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[04Sep2024 20:00:45.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[04Sep2024 20:00:45.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[04Sep2024 20:00:45.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[04Sep2024 20:00:45.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[04Sep2024 20:00:45.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[04Sep2024 20:00:46.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 20:00:54.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:00:54.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:00:55.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:01:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:01:06.641] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-949, y:60, z:1067, dim:minecraft:overworld]
+[04Sep2024 20:01:06.670] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:01:08.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[04Sep2024 20:01:08.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[04Sep2024 20:01:08.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[04Sep2024 20:01:08.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[04Sep2024 20:01:08.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[04Sep2024 20:01:08.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[04Sep2024 20:01:08.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[04Sep2024 20:01:08.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[04Sep2024 20:01:08.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[04Sep2024 20:01:08.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[04Sep2024 20:01:08.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[04Sep2024 20:01:08.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[04Sep2024 20:01:08.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[04Sep2024 20:01:08.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[04Sep2024 20:01:08.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[04Sep2024 20:01:08.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[04Sep2024 20:01:08.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[04Sep2024 20:01:08.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[04Sep2024 20:01:08.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[04Sep2024 20:01:08.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[04Sep2024 20:01:08.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[04Sep2024 20:01:08.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[04Sep2024 20:01:08.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[04Sep2024 20:01:08.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[04Sep2024 20:01:08.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[04Sep2024 20:01:08.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[04Sep2024 20:01:08.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[04Sep2024 20:01:08.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[04Sep2024 20:01:08.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 20:01:17.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:01:17.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:01:18.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:01:23.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:01:23.336] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-951, y:58, z:1066, dim:minecraft:overworld]
+[04Sep2024 20:01:23.426] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:01:24.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:01:24.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:01:25.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:01:50.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:01:50.899] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-953, y:57, z:1065, dim:minecraft:overworld]
+[04Sep2024 20:01:50.902] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:01:52.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[04Sep2024 20:01:52.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[04Sep2024 20:01:52.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[04Sep2024 20:01:52.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[04Sep2024 20:01:52.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[04Sep2024 20:01:52.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[04Sep2024 20:01:52.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[04Sep2024 20:01:52.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[04Sep2024 20:01:52.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[04Sep2024 20:01:52.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[04Sep2024 20:01:52.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[04Sep2024 20:01:52.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[04Sep2024 20:01:52.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[04Sep2024 20:01:52.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[04Sep2024 20:01:52.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[04Sep2024 20:01:52.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[04Sep2024 20:01:52.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[04Sep2024 20:01:52.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[04Sep2024 20:01:52.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[04Sep2024 20:01:52.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[04Sep2024 20:01:52.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[04Sep2024 20:01:52.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[04Sep2024 20:01:52.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[04Sep2024 20:01:52.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[04Sep2024 20:01:52.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[04Sep2024 20:01:52.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[04Sep2024 20:01:52.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[04Sep2024 20:01:52.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[04Sep2024 20:01:52.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 20:02:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:02:00.936] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-948, y:61, z:1066, dim:minecraft:overworld]
+[04Sep2024 20:02:00.952] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:02:04.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:02:04.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:02:05.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:02:35.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:02:35.702] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-950, y:57, z:1071, dim:minecraft:overworld]
+[04Sep2024 20:02:35.706] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:03:19.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 20:03:19.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 20:04:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:04:03.959] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-954, y:54, z:1064, dim:minecraft:overworld]
+[04Sep2024 20:04:03.962] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:04:15.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/40839, l='ServerLevel[world]', x=-954.85, y=55.00, z=1065.85] died: Drunken Villager was slain by fabri
+[04Sep2024 20:04:30.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/40919, l='ServerLevel[world]', x=-956.15, y=55.00, z=1065.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:05:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:05:00.864] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-954, y:52, z:1066, dim:minecraft:overworld]
+[04Sep2024 20:05:00.868] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:05:11.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:05:11.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:05:13.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41539, l='ServerLevel[world]', x=-955.68, y=52.00, z=1066.42] died: Drunken Villager was slain by fabri
+[04Sep2024 20:05:13.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:05:20.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41538, l='ServerLevel[world]', x=-956.15, y=55.00, z=1065.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:05:28.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41566, l='ServerLevel[world]', x=-956.15, y=55.00, z=1065.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:06:11.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41565, l='ServerLevel[world]', x=-956.15, y=55.00, z=1065.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:06:13.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41540, l='ServerLevel[world]', x=-957.72, y=55.00, z=1063.33] died: Drunken Villager was slain by fabri
+[04Sep2024 20:06:39.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/41563, l='ServerLevel[world]', x=-956.15, y=55.00, z=1065.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:07:05.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [The Negotiator]
+[04Sep2024 20:08:19.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 20:08:19.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 20:08:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:08:33.242] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-951, y:55, z:1056, dim:minecraft:overworld]
+[04Sep2024 20:08:33.256] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:08:51.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 20:08:51.974] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-947, y:55, z:1057, dim:minecraft:overworld]
+[04Sep2024 20:08:51.991] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:08:53.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[04Sep2024 20:08:53.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[04Sep2024 20:08:53.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[04Sep2024 20:08:53.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[04Sep2024 20:08:53.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[04Sep2024 20:08:53.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[04Sep2024 20:08:53.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[04Sep2024 20:08:53.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[04Sep2024 20:08:53.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[04Sep2024 20:08:53.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[04Sep2024 20:08:53.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[04Sep2024 20:08:53.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[04Sep2024 20:08:53.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[04Sep2024 20:08:53.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[04Sep2024 20:08:53.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[04Sep2024 20:08:53.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[04Sep2024 20:08:53.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[04Sep2024 20:08:53.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[04Sep2024 20:08:53.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[04Sep2024 20:08:53.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[04Sep2024 20:08:53.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[04Sep2024 20:08:53.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[04Sep2024 20:08:53.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[04Sep2024 20:08:53.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[04Sep2024 20:08:53.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[04Sep2024 20:08:53.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[04Sep2024 20:08:53.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[04Sep2024 20:08:53.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[04Sep2024 20:08:53.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 20:09:00.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Sep2024 20:09:00.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[04Sep2024 20:09:02.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 20:09:04.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43715, l='ServerLevel[world]', x=-945.44, y=55.00, z=1057.11] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:09:53.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43741, l='ServerLevel[world]', x=-946.53, y=55.00, z=1053.44] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 20:10:02.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/43743, l='ServerLevel[world]', x=-946.50, y=55.00, z=1053.49] died: Unlicensed Alchemist was slain by fabri
