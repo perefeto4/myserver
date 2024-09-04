@@ -286,3 +286,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:45:05.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 19:45:11.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 19:47:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZZZZZZZZZZZ
+[04Sep2024 19:50:28.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> frostbite q es?
+[04Sep2024 19:50:38.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27754, l='ServerLevel[world]', x=-938.70, y=75.75, z=1027.56] died, message: 'Unemployed burned to death'
+[04Sep2024 19:50:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Suit Up]
+[04Sep2024 19:56:24.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/32181, l='ServerLevel[world]', x=-952.60, y=57.00, z=1068.88] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 19:56:52.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Unlicensed Alchemist
+[04Sep2024 19:56:52.620] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fabri with unique ID travelersbackpack.squid_04.09.2024-19.56.52.dat
+[04Sep2024 19:56:52.627] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -952 Y: 57 Z: 1070
+[04Sep2024 19:56:52.648] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:57:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 19:57:07.066] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:57:20.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/34273, l='ServerLevel[world]', x=-949.11, y=62.00, z=1066.00] died: Drunken Villager was slain by fabri
+[04Sep2024 19:57:28.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 19:57:28.610] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:57:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 19:57:44.023] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:58:40.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/36053, l='ServerLevel[world]', x=-952.62, y=57.00, z=1068.99] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 19:59:00.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/35812, l='ServerLevel[world]', x=-952.61, y=57.00, z=1068.93] died: Unlicensed Alchemist was slain by fabri
+[04Sep2024 19:59:22.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/35810, l='ServerLevel[world]', x=-952.61, y=57.00, z=1068.94] died: Unlicensed Alchemist was slain by fabri
