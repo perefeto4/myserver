@@ -261,3 +261,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:17:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Neighborhood Brawl]
 [04Sep2024 19:17:49.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10574, l='ServerLevel[world]', x=-392.44, y=65.00, z=36.91] died, message: 'Leatherworker was slain by fabri'
 [04Sep2024 19:18:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [You Shall Not Pass]
+[04Sep2024 19:20:22.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:22:34.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 19:24:39.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:26:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz

@@ -2692,3 +2692,20 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:17:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Neighborhood Brawl]
 [04Sep2024 19:17:49.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10574, l='ServerLevel[world]', x=-392.44, y=65.00, z=36.91] died, message: 'Leatherworker was slain by fabri'
 [04Sep2024 19:18:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [You Shall Not Pass]
+[04Sep2024 19:18:19.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 19:18:19.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 19:19:15.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 19:19:16.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[04Sep2024 19:19:16.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[04Sep2024 19:19:16.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[04Sep2024 19:19:16.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[04Sep2024 19:19:16.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[04Sep2024 19:20:22.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:22:24.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 19:22:34.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 19:23:19.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 19:23:19.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 19:24:39.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:26:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
+[04Sep2024 19:28:19.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 19:28:19.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
