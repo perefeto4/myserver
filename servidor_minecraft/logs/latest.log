@@ -626,3 +626,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 23:05:23.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
 [04Sep2024 23:05:23.845] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
 [04Sep2024 23:05:28.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[04Sep2024 23:07:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [What a Deal!]
+[04Sep2024 23:10:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was burnt to a crisp whilst fighting Wither Skeleton
+[04Sep2024 23:10:13.004] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:11:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Wither Skeleton
+[04Sep2024 23:11:24.872] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:11:27.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Sep2024 23:12:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was doomed to fall
+[04Sep2024 23:12:32.874] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved

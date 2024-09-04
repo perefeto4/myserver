@@ -4594,3 +4594,61 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 23:05:24.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
 [04Sep2024 23:05:28.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
 [04Sep2024 23:05:30.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:07:13.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 23:07:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [What a Deal!]
+[04Sep2024 23:09:15.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 23:09:15.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 23:10:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was burnt to a crisp whilst fighting Wither Skeleton
+[04Sep2024 23:10:13.003] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-2876, y:233, z:1956, dim:minecraft:overworld]
+[04Sep2024 23:10:13.004] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:10:14.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 23:10:15.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[04Sep2024 23:10:15.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[04Sep2024 23:10:15.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[04Sep2024 23:10:15.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[04Sep2024 23:10:15.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[04Sep2024 23:10:15.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[04Sep2024 23:10:15.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[04Sep2024 23:10:17.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 23:10:18.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:11:17.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 23:11:17.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[04Sep2024 23:11:17.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[04Sep2024 23:11:17.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[04Sep2024 23:11:17.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[04Sep2024 23:11:17.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[04Sep2024 23:11:17.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[04Sep2024 23:11:17.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[04Sep2024 23:11:17.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[04Sep2024 23:11:19.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:11:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Wither Skeleton
+[04Sep2024 23:11:24.872] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:11:25.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 23:11:27.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Sep2024 23:12:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was doomed to fall
+[04Sep2024 23:12:32.852] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-2876, y:126, z:1945, dim:minecraft:overworld]
+[04Sep2024 23:12:32.874] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:12:34.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 23:12:34.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[04Sep2024 23:12:34.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[04Sep2024 23:12:34.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[04Sep2024 23:12:34.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[04Sep2024 23:12:34.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[04Sep2024 23:12:34.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[04Sep2024 23:12:34.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[04Sep2024 23:12:34.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[04Sep2024 23:12:35.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:12:41.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:12:43.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 23:13:03.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Sep2024 23:14:05.774] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[04Sep2024 23:14:05.792] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[04Sep2024 23:14:05.801] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[04Sep2024 23:14:05.806] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[04Sep2024 23:14:05.806] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[04Sep2024 23:14:05.807] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[04Sep2024 23:14:05.807] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[04Sep2024 23:14:05.811] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[04Sep2024 23:14:07.336] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 23:14:17.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 23:14:17.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
