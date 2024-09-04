@@ -643,3 +643,22 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 23:19:29.219] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
 [04Sep2024 23:19:37.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Sep2024 23:23:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Magic Writing]
+[04Sep2024 23:29:38.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Sep2024 23:30:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Cover Me with Diamonds]
+[04Sep2024 23:32:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> duerme
+[04Sep2024 23:33:16.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzz
+[04Sep2024 23:33:16.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[04Sep2024 23:33:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 23:33:24.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:43001] logged in with entity id 145830 at (-2878.4426238939336, 224.0, 1954.1679526298265)
+[04Sep2024 23:33:24.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 23:33:24.967] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 23:33:40.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/145437, l='ServerLevel[world]', x=-1031.47, y=86.00, z=876.81] died, message: 'Unemployed was burnt to a crisp whilst fighting Zombie'
+[04Sep2024 23:34:43.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/145416, l='ServerLevel[world]', x=-1068.64, y=83.00, z=859.57] died, message: 'Mason was slain by Zombie'
+[04Sep2024 23:35:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Wither Skeleton
+[04Sep2024 23:35:17.319] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:35:23.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[04Sep2024 23:35:46.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Wither Skeleton
+[04Sep2024 23:35:46.391] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:35:55.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Sep2024 23:36:03.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Wither Skeleton
+[04Sep2024 23:36:03.649] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
