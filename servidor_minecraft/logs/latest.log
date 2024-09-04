@@ -603,3 +603,5 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 22:23:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> Oe vicioso termina el codigo y pasa
 [04Sep2024 22:23:45.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> has el de la y yo el de pato
 [04Sep2024 22:23:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> lab*
+[04Sep2024 22:25:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 hit the ground too hard
+[04Sep2024 22:25:16.105] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
