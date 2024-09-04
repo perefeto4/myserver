@@ -427,3 +427,10 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 20:30:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
 [04Sep2024 20:30:42.568] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
 [04Sep2024 20:30:42.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/54058, l='ServerLevel[world]', x=-956.53, y=55.06, z=1063.36] died: Drunken Villager was slain by fabri
+[04Sep2024 20:31:56.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57516, l='ServerLevel[world]', x=-905.19, y=66.00, z=974.34] died, message: 'Unemployed was slain by Zombie'
+[04Sep2024 20:34:39.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/60518, l='ServerLevel[world]', x=-1387.54, y=88.00, z=726.25] died, message: 'Farmer was slain by Zombie'
+[04Sep2024 20:36:06.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Sep2024 20:36:09.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZZZZZ
+[04Sep2024 20:38:50.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
+[04Sep2024 20:38:50.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[04Sep2024 20:38:51.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
