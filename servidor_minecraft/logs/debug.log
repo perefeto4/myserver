@@ -5707,3 +5707,37 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 00:00:04.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [04Sep2024 00:02:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Sneak 100]
 [04Sep2024 00:02:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> pasa
+[04Sep2024 00:03:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> que te paso
+[04Sep2024 00:03:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> apura quiero ir
+[04Sep2024 00:03:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pero qe ps
+[04Sep2024 00:03:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ubi
+[04Sep2024 00:04:44.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> xaero-waypoint:gil:G:-1191:-50:5:2:false:0:Internal-overworld-waypoints
+[04Sep2024 00:04:51.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 00:04:51.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 00:05:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> voy a quitar la cama
+[04Sep2024 00:05:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> tas bien no?
+[04Sep2024 00:05:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ok
+[04Sep2024 00:06:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa no me solta la cama
+[04Sep2024 00:06:20.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ahg
+[04Sep2024 00:06:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> a no s
+[04Sep2024 00:06:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[04Sep2024 00:06:44.795] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-1185, y:-43, z:-24, dim:minecraft:overworld]
+[04Sep2024 00:06:44.796] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 00:07:07.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[04Sep2024 00:07:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 00:07:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [The Most Useful Key]
+[04Sep2024 00:07:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [A Fast Comeback]
+[04Sep2024 00:07:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Easy Opening]
+[04Sep2024 00:09:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Where Is The Stone Pen?]
+[04Sep2024 00:09:44.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Milka Oreo]
+[04Sep2024 00:09:51.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 00:09:51.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 00:10:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was blown up by Creeper
+[04Sep2024 00:10:18.049] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-1084, y:-2, z:-16, dim:minecraft:overworld]
+[04Sep2024 00:10:18.062] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 00:10:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[04Sep2024 00:10:47.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 00:10:56.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1086.500000, -2.500000, -14.500000]
+[04Sep2024 00:11:43.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> no hay la wba del guarden?
+[04Sep2024 00:11:52.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> nad
+[04Sep2024 00:12:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Sneak 100]
