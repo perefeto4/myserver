@@ -662,3 +662,18 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 23:35:55.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [04Sep2024 23:36:03.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Wither Skeleton
 [04Sep2024 23:36:03.649] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 23:38:29.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[04Sep2024 23:42:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> 3tp en una aldea
+[04Sep2024 23:42:42.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> apuct
+[04Sep2024 23:42:45.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ah espera no
+[04Sep2024 23:42:48.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> solo 2
+[04Sep2024 23:42:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> regala 1
+[04Sep2024 23:42:55.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> este lo deje aqui
+[04Sep2024 23:43:11.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> aquí donde :v
+[04Sep2024 23:44:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[04Sep2024 23:45:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 23:45:19.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[04Sep2024 23:45:19.922] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 23:45:57.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/157142, l='ServerLevel[world]', x=-1098.48, y=132.00, z=791.58] died, message: 'Unemployed was slain by Zombie'
+[04Sep2024 23:47:36.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzzzzz
+[04Sep2024 23:47:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> voy
