@@ -567,3 +567,5 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 21:01:37.649] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
 [04Sep2024 21:01:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> lagaso
 [04Sep2024 21:01:50.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind
+[04Sep2024 21:12:07.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [We Need to Go Deeper]
+[04Sep2024 21:12:12.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8994ms or 179 ticks behind
