@@ -574,3 +574,20 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 21:12:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
 [04Sep2024 21:15:20.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [04Sep2024 21:19:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Nether More]
+[04Sep2024 21:23:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Take Aim]
+[04Sep2024 21:23:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was killed trying to hurt Skeleton
+[04Sep2024 21:23:51.678] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 21:24:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Stray
+[04Sep2024 21:24:46.188] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 21:25:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[04Sep2024 21:25:39.552] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 21:27:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Strong or Careful]
+[04Sep2024 21:27:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[04Sep2024 21:27:12.704] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 21:27:17.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[04Sep2024 21:27:17.900] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 21:28:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Stray
+[04Sep2024 21:28:37.401] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 21:28:44.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was burnt to a crisp whilst fighting Zombie
+[04Sep2024 21:28:44.908] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 21:29:24.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Fortuitous Militia]
