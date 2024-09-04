@@ -242,3 +242,25 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 04:19:22.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 04:20:16.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 04:22:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzz
+[04Sep2024 04:25:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[04Sep2024 04:25:10.659] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 04:26:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> safo
+[04Sep2024 04:26:28.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ya np spy
+[04Sep2024 04:26:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> dpy
+[04Sep2024 04:26:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> doy
+[04Sep2024 04:26:40.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[04Sep2024 04:26:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[04Sep2024 04:26:41.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> yaya
+[04Sep2024 04:26:50.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Sep2024 04:26:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Sep2024 04:26:50.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Sep2024 04:26:50.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Server closed
+[04Sep2024 04:26:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 04:26:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Sep2024 04:26:50.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Sep2024 04:26:52.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Sep2024 04:26:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Sep2024 04:26:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Sep2024 04:26:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Sep2024 04:26:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Sep2024 04:26:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
