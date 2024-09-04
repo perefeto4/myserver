@@ -7292,3 +7292,48 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 00:51:11.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ese nombre
 [04Sep2024 00:52:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> creo q no quiero salir
 [04Sep2024 00:53:12.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[04Sep2024 00:54:42.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[04Sep2024 00:54:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:54:43.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ya sales?
+[04Sep2024 00:54:57.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 00:54:57.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 00:55:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -4.41675091117304,-3.4182428694563782,8.74317417806678
+[04Sep2024 00:55:16.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -4.850429078627485,-3.6855344067836313,9.39670701652453
+[04Sep2024 00:55:16.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -5.2926834905613305,-3.9524952537014286,10.049170756885076
+[04Sep2024 00:55:22.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -4.670998126187669,-4.998342050453289,8.029861494032048
+[04Sep2024 00:55:22.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -5.050991194429571,-5.571562406647857,8.666520584217494
+[04Sep2024 00:55:22.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -5.430678379891788,-6.16453875008348,9.30062051562399
+[04Sep2024 00:55:24.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 00:55:24.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 00:55:52.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[04Sep2024 00:55:52.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[04Sep2024 00:55:52.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[04Sep2024 00:55:52.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[04Sep2024 00:55:52.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[04Sep2024 00:55:52.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Sep2024 00:55:57.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -1.9986350439348826,-0.6358868614487108,10.506711790376585
+[04Sep2024 00:55:57.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -2.196359226554705,-0.6635607707743816,11.331466713926375
+[04Sep2024 00:55:57.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -2.395924915642354,-0.6897617340866873,12.149166936318807
+[04Sep2024 00:55:57.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -2.5968806837845477,-0.7148280655713108,12.960040534213192
+[04Sep2024 00:55:57.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -2.7988123900199753,-0.7390635602284732,13.764323531070943
+[04Sep2024 00:55:59.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Sep2024 00:56:20.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Sep2024 00:56:43.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 00:59:57.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 00:59:57.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 01:02:01.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[04Sep2024 01:02:01.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[04Sep2024 01:02:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Sep2024 01:02:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Sep2024 01:02:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Sep2024 01:02:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Sep2024 01:02:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Sep2024 01:02:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Sep2024 01:02:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Sep2024 01:02:20.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2024 01:02:20.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2024 01:02:20.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Sep2024 01:02:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Sep2024 01:02:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Sep2024 01:02:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Sep2024 01:02:21.189] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
