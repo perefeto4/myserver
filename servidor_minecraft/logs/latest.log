@@ -265,3 +265,24 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:22:34.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
 [04Sep2024 19:24:39.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 19:26:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
+[04Sep2024 19:28:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Husk
+[04Sep2024 19:28:45.803] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 19:28:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2098.500000, 103.500000, 546.500000]
+[04Sep2024 19:32:56.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri fell from a high place
+[04Sep2024 19:32:56.869] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:33:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[04Sep2024 19:33:02.705] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 19:33:21.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has reached the goal [Bone Crusher]
+[04Sep2024 19:40:32.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -0.3498895342219157,-4.235705849671035,9.788651492426538
+[04Sep2024 19:40:32.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -0.38798407996887363,-4.564150082110871,10.694067054725338
+[04Sep2024 19:40:32.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -0.4268544512817698,-4.884762877040345,11.60005005139567
+[04Sep2024 19:40:32.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -0.4663882870863745,-5.1983205331637805,12.506128517639695
+[04Sep2024 19:40:32.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -0.5064652920140134,-5.505555961561782,13.411881926916976
+[04Sep2024 19:40:49.831] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Sep2024 19:40:51.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:41:45.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [The Parrots and the Bats]
+[04Sep2024 19:44:09.438] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[04Sep2024 19:44:19.665] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[04Sep2024 19:45:05.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:45:11.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:47:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZZZZZZZZZZZ
