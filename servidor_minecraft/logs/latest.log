@@ -145,3 +145,51 @@
 [04Sep2024 00:33:23.729] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
 [04Sep2024 00:33:43.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
 [04Sep2024 00:33:43.994] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:33:56.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:33:56.672] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:34:04.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[04Sep2024 00:34:04.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:34:05.003] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:34:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:34:34.510] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:34:42.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 00:34:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Spider
+[04Sep2024 00:34:47.701] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 00:34:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2378.500000, 65.500000, 143.500000]
+[04Sep2024 00:34:56.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[04Sep2024 00:34:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:35:03.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Sep2024 00:35:08.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:45693] logged in with entity id 94573 at (-1212.300000011921, -41.4375, 11.69572745155323)
+[04Sep2024 00:35:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 00:35:08.355] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 00:35:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:35:30.352] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:35:37.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[04Sep2024 00:35:53.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[04Sep2024 00:35:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:37:00.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:38577] logged in with entity id 95496 at (-1212.4247120522573, -41.125, 11.984036505901633)
+[04Sep2024 00:37:00.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 00:37:00.236] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 00:37:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> oe ha una casa ps
+[04Sep2024 00:37:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:37:14.606] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:37:30.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[04Sep2024 00:37:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:38:02.842] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@267ecb28[id=<null>,name=fabri,properties={},legacy=false] (/127.144.176.107:41649) lost connection: Disconnected
+[04Sep2024 00:38:55.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:50469] logged in with entity id 97618 at (-1212.3321072270903, -41.915246597081115, 12.3862103881172)
+[04Sep2024 00:38:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 00:38:55.474] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 00:39:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:39:29.201] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:39:36.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
+[04Sep2024 00:39:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[04Sep2024 00:40:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:40:05.146] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:40:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:40:12.043] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:40:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:40:36.243] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:41:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya 2 warden q mato
+[04Sep2024 00:41:24.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> promedio deiertrs 20 pero los mato
+[04Sep2024 00:41:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> de muertes*
+[04Sep2024 00:43:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya saliste?
