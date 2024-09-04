@@ -605,3 +605,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 22:23:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> lab*
 [04Sep2024 22:25:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 hit the ground too hard
 [04Sep2024 22:25:16.105] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 22:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [A Seedy Place]
+[04Sep2024 22:49:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri fell from a high place
+[04Sep2024 22:49:25.599] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 22:51:04.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -9.896057158650365,-1.8351091073656391,1.4479860931860458
+[04Sep2024 22:51:04.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of fabri) moved too quickly! -10.663107963073344,-1.983701824958544,1.5541942936204123
+[04Sep2024 22:54:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Ghost Riders In The Sky]
+[04Sep2024 22:54:48.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 22:55:05.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
