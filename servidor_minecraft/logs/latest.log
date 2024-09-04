@@ -73,3 +73,75 @@
 [04Sep2024 00:22:39.100] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
 [04Sep2024 00:22:57.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
 [04Sep2024 00:22:57.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:23:57.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:57517] logged in with entity id 82448 at (-1212.5840084413494, -42.0, 13.299438923972097)
+[04Sep2024 00:23:57.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 00:23:57.269] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 00:24:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:24:07.902] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:24:14.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 blew up
+[04Sep2024 00:24:14.648] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 00:24:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1036.500000, -45.500000, -113.500000]
+[04Sep2024 00:24:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[04Sep2024 00:24:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:24:50.445] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:25:06.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 00:25:12.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Timed out
+[04Sep2024 00:25:12.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 00:25:24.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:43059] logged in with entity id 84002 at (-1212.300000011921, -41.4375, 11.57868545991755)
+[04Sep2024 00:25:24.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 00:25:24.638] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 00:25:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> sigues abajo?
+[04Sep2024 00:25:47.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:25:47.312] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:25:48.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 blew up
+[04Sep2024 00:25:48.746] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[04Sep2024 00:25:55.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -1242.500000, 78.500000, 2.500000]
+[04Sep2024 00:26:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:26:24.046] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:26:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:26:50.397] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:26:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> lo matoooo
+[04Sep2024 00:27:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:27:20.500] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:27:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> voy a buscar otra aldae
+[04Sep2024 00:27:47.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -7.210161298500907,-5.766094194329739,-3.9202845722692956
+[04Sep2024 00:27:47.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -7.995970951544905,-6.236649699041209,-4.3462840806407
+[04Sep2024 00:27:47.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -8.787715061684594,-6.69168731776962,-4.776145618433958
+[04Sep2024 00:27:47.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -9.584325736488381,-7.132364020783044,-5.209348472132746
+[04Sep2024 00:27:47.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -10.384865999466228,-7.559795379599933,-5.645405126489351
+[04Sep2024 00:27:47.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -11.188520022247985,-7.975041660730824,-6.083860092613918
+[04Sep2024 00:27:47.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -11.994582888310788,-8.379099859808889,-6.524288690859976
+[04Sep2024 00:27:52.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:27:52.372] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:27:54.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -9.364507388705988,-3.744671995977612,2.437461259050366
+[04Sep2024 00:28:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:28:23.431] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:28:48.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[04Sep2024 00:28:51.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was obliterated by a sonically-charged shriek
+[04Sep2024 00:28:51.711] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:29:14.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:29:14.360] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:29:26.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has completed the challenge [It Spreads]
+[04Sep2024 00:29:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> gaaaaaaaaaaaa
+[04Sep2024 00:31:18.510] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[04Sep2024 00:31:18.516] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[04Sep2024 00:31:18.520] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[04Sep2024 00:31:18.531] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[04Sep2024 00:31:18.555] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[04Sep2024 00:31:18.559] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[04Sep2024 00:31:18.561] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[04Sep2024 00:31:18.562] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[04Sep2024 00:31:18.563] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[04Sep2024 00:31:19.781] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[04Sep2024 00:31:19.784] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[04Sep2024 00:31:57.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> hay un warden quieto
+[04Sep2024 00:32:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> matalo
+[04Sep2024 00:32:23.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of seta32) moved too quickly! -9.720198655638796,-0.4734210343524836,-4.062817032928365
+[04Sep2024 00:32:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> no puedo golpearlo :v
+[04Sep2024 00:33:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:33:01.798] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:33:10.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ahora sí xd
+[04Sep2024 00:33:23.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:33:23.729] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 00:33:43.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Warden
+[04Sep2024 00:33:43.994] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
