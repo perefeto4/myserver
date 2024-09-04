@@ -613,3 +613,16 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 22:54:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Ghost Riders In The Sky]
 [04Sep2024 22:54:48.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
 [04Sep2024 22:55:05.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 22:58:25.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[04Sep2024 22:58:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 22:59:35.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:34019] logged in with entity id 129865 at (-2876.776436870543, 230.0, 1954.9846710536983)
+[04Sep2024 22:59:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 22:59:35.401] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 23:02:41.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> oe duerme
+[04Sep2024 23:04:58.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzz
+[04Sep2024 23:05:00.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[04Sep2024 23:05:00.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[04Sep2024 23:05:23.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:51717] logged in with entity id 131691 at (-2880.226490223192, 227.0, 1952.5555964282464)
+[04Sep2024 23:05:23.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[04Sep2024 23:05:23.845] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[04Sep2024 23:05:28.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
