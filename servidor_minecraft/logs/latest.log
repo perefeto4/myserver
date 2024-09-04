@@ -434,3 +434,15 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 20:38:50.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
 [04Sep2024 20:38:50.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
 [04Sep2024 20:38:51.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Sep2024 20:41:36.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b83ae88[id=<null>,name=seta32,properties={},legacy=false] (/127.125.145.200:47699) lost connection: Disconnected
+[04Sep2024 20:41:50.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:38377] logged in with entity id 65279 at (-2150.5, 68.0, 401.5)
+[04Sep2024 20:41:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[04Sep2024 20:41:50.882] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[04Sep2024 20:43:22.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04Sep2024 20:45:25.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Sep2024 20:46:28.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 20:46:38.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[04Sep2024 20:47:38.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[04Sep2024 20:48:45.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[04Sep2024 20:49:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzz
+[04Sep2024 20:49:31.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZZZZZZZZZZZZ
