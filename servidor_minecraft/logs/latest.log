@@ -391,3 +391,39 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 20:20:12.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51214, l='ServerLevel[world]', x=-959.15, y=53.00, z=1056.85] died: Drunken Villager was slain by fabri
 [04Sep2024 20:20:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> hay mas spawn
 [04Sep2024 20:20:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> rompí varios
+[04Sep2024 20:20:27.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> para arriba justo ahi
+[04Sep2024 20:20:49.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> bajesa q haces aqui
+[04Sep2024 20:20:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> VEO
+[04Sep2024 20:21:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 20:21:21.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[04Sep2024 20:21:28.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51213, l='ServerLevel[world]', x=-962.50, y=55.00, z=1057.66] died: Drunken Villager was slain by fabri
+[04Sep2024 20:21:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> cuántos Spawn hay
+[04Sep2024 20:21:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> 3 CREO
+[04Sep2024 20:21:54.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51216, l='ServerLevel[world]', x=-962.26, y=55.00, z=1056.53] died: Drunken Villager was slain by fabri
+[04Sep2024 20:22:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya se uno
+[04Sep2024 20:22:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[04Sep2024 20:22:16.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/52044, l='ServerLevel[world]', x=-959.31, y=54.00, z=1049.76] died: Drunken Villager was slain by fabri
+[04Sep2024 20:22:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> SAFO
+[04Sep2024 20:22:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2126.500000, 68.500000, 397.500000]
+[04Sep2024 20:22:36.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51802, l='ServerLevel[world]', x=-959.21, y=54.00, z=1049.12] died: Drunken Villager was slain by fabri
+[04Sep2024 20:22:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[04Sep2024 20:22:37.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51963, l='ServerLevel[world]', x=-959.15, y=54.00, z=1049.50] died: Drunken Villager was slain by fabri
+[04Sep2024 20:22:41.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51965, l='ServerLevel[world]', x=-959.15, y=54.00, z=1049.08] died: Drunken Villager was slain by fabri
+[04Sep2024 20:23:11.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:23:11.068] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:23:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:23:39.822] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:26:01.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/54201, l='ServerLevel[world]', x=-975.22, y=52.00, z=1048.54] died: Drunken Villager was slain by fabri
+[04Sep2024 20:26:04.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/54059, l='ServerLevel[world]', x=-972.58, y=52.00, z=1050.47] died: Drunken Villager was slain by fabri
+[04Sep2024 20:26:12.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/54200, l='ServerLevel[world]', x=-974.27, y=51.50, z=1050.85] died: Drunken Villager was slain by fabri
+[04Sep2024 20:28:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:28:29.805] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:28:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:28:52.764] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:30:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:30:09.559] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:30:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:30:17.856] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:30:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Drunken Villager
+[04Sep2024 20:30:42.568] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 20:30:42.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/54058, l='ServerLevel[world]', x=-956.53, y=55.06, z=1063.36] died: Drunken Villager was slain by fabri
