@@ -247,3 +247,17 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Sep2024 19:07:10.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> Z
 [04Sep2024 19:07:11.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZ
 [04Sep2024 19:07:42.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Sep2024 19:09:20.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:10:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Bone Crusher]
+[04Sep2024 19:11:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[04Sep2024 19:11:33.771] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[04Sep2024 19:11:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> AHG
+[04Sep2024 19:11:46.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> fue suicidio
+[04Sep2024 19:12:07.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> ZZZZZZZZ
+[04Sep2024 19:12:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> nd
+[04Sep2024 19:12:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> ya sale el sol
+[04Sep2024 19:13:28.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved wrongly!
+[04Sep2024 19:17:34.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10593, l='ServerLevel[world]', x=-394.80, y=65.50, z=33.50] died, message: 'Leatherworker was slain by fabri'
+[04Sep2024 19:17:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Neighborhood Brawl]
+[04Sep2024 19:17:49.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10574, l='ServerLevel[world]', x=-392.44, y=65.00, z=36.91] died, message: 'Leatherworker was slain by fabri'
+[04Sep2024 19:18:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [You Shall Not Pass]
