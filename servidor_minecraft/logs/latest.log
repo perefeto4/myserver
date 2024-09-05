@@ -36,3 +36,17 @@
 [05Sep2024 00:17:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
 [05Sep2024 00:17:41.004] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
 [05Sep2024 00:17:43.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[05Sep2024 00:19:31.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[05Sep2024 00:19:31.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[05Sep2024 00:19:40.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:49221] logged in with entity id 178799 at (-2150.914233573231, 62.0, 397.843185322908)
+[05Sep2024 00:19:40.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[05Sep2024 00:19:40.438] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[05Sep2024 00:22:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Guns and Roses]
+[05Sep2024 00:23:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> acá si tendrás q ayudar con los comandos creo
+[05Sep2024 00:23:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> por?
+[05Sep2024 00:23:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> hace rato que me quite el admin
+[05Sep2024 00:23:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> son las torres rojas
+[05Sep2024 00:24:07.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> trataré de romper rápido los Spawn pero sino comandos por lag
+[05Sep2024 00:29:05.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri fell from a high place
+[05Sep2024 00:29:05.921] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 00:29:18.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
