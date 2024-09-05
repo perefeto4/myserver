@@ -2447,3 +2447,10 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 21:00:31.592] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [05Sep2024 21:01:08.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2024 21:01:08.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 21:06:08.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 21:06:08.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 21:10:44.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Piglin Brute
+[05Sep2024 21:10:44.882] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-373, y:52, z:22, dim:minecraft:the_nether]
+[05Sep2024 21:10:44.888] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 21:11:08.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 21:11:08.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
