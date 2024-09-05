@@ -60,3 +60,22 @@
 [05Sep2024 00:34:42.752] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
 [05Sep2024 00:36:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
 [05Sep2024 00:36:00.350] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 00:40:58.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/178801, l='ServerLevel[world]', x=-2142.30, y=62.00, z=393.55] died, message: 'Librarian was slain by seta32'
+[05Sep2024 00:41:19.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[05Sep2024 00:41:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[05Sep2024 00:41:26.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:35865] logged in with entity id 187219 at (-2149.1348997230716, 62.0, 396.02734661213964)
+[05Sep2024 00:41:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[05Sep2024 00:41:26.678] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[05Sep2024 00:43:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 00:44:31.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187249, l='ServerLevel[world]', x=-2156.30, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:45:20.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[05Sep2024 00:45:20.164] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 00:45:44.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187245, l='ServerLevel[world]', x=-2152.50, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:46:18.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187248, l='ServerLevel[world]', x=-2144.70, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:46:40.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187246, l='ServerLevel[world]', x=-2146.70, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:47:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 00:48:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was killed trying to hurt Skeleton
+[05Sep2024 00:48:04.568] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 00:49:11.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Zombie Doctor]
+[05Sep2024 00:49:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 00:50:24.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189133, l='ServerLevel[world]', x=-2150.62, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
