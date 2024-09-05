@@ -208,3 +208,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 21:55:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> y a saber si el swicht ya bien
 [05Sep2024 22:01:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was burnt to a crisp whilst fighting Zombie
 [05Sep2024 22:01:38.894] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:11:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 burned to death
+[05Sep2024 22:11:15.805] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:13:54.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[05Sep2024 22:13:54.338] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
