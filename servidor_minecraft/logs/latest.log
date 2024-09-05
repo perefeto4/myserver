@@ -194,3 +194,13 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 04:34:53.040] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
 [05Sep2024 04:42:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
 [05Sep2024 04:42:30.501] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:43:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was blown up by Creeper
+[05Sep2024 04:43:59.708] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:45:18.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Spider
+[05Sep2024 04:45:18.497] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:48:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[05Sep2024 04:48:12.052] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:48:41.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
+[05Sep2024 04:48:41.604] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 04:50:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[05Sep2024 04:50:11.347] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved

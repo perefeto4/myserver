@@ -2597,3 +2597,24 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 04:42:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
 [05Sep2024 04:42:30.498] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2133, y:25, z:485, dim:minecraft:overworld]
 [05Sep2024 04:42:30.501] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:43:40.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 04:43:40.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 04:43:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was blown up by Creeper
+[05Sep2024 04:43:59.695] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2095, y:18, z:443, dim:minecraft:overworld]
+[05Sep2024 04:43:59.708] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:45:18.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Spider
+[05Sep2024 04:45:18.489] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2115, y:26, z:461, dim:minecraft:overworld]
+[05Sep2024 04:45:18.497] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:48:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[05Sep2024 04:48:12.043] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2076, y:18, z:481, dim:minecraft:overworld]
+[05Sep2024 04:48:12.052] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:48:40.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 04:48:40.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 04:48:41.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
+[05Sep2024 04:48:41.581] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-2825, y:138, z:2913, dim:minecraft:overworld]
+[05Sep2024 04:48:41.604] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 04:50:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Skeleton
+[05Sep2024 04:50:11.342] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2092, y:23, z:490, dim:minecraft:overworld]
+[05Sep2024 04:50:11.347] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:53:41.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 04:53:41.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
