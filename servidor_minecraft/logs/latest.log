@@ -79,3 +79,22 @@
 [05Sep2024 00:49:11.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Zombie Doctor]
 [05Sep2024 00:49:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
 [05Sep2024 00:50:24.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189133, l='ServerLevel[world]', x=-2150.62, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:51:05.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 00:52:12.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 00:52:15.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/187247, l='ServerLevel[world]', x=-2148.30, y=62.00, z=392.96] died, message: 'Fletcher was slain by seta32'
+[05Sep2024 00:52:41.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189548, l='ServerLevel[world]', x=-2152.50, y=62.56, z=392.50] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:52:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 00:53:23.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 00:54:05.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189953, l='ServerLevel[world]', x=-2146.30, y=62.00, z=393.67] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:54:08.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[05Sep2024 00:54:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[05Sep2024 00:54:27.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/190058, l='ServerLevel[world]', x=-2144.30, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 00:54:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 00:56:32.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/190854, l='ServerLevel[world]', x=-2150.34, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
+[05Sep2024 01:00:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Made seta32 no longer a server operator]
+[05Sep2024 01:00:50.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[05Sep2024 01:00:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[05Sep2024 01:00:57.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:49473] logged in with entity id 191706 at (-2154.112948314057, 62.0, 399.05142371344044)
+[05Sep2024 01:00:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[05Sep2024 01:00:57.957] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[05Sep2024 01:01:05.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
