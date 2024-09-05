@@ -286,3 +286,22 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 23:07:09.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.177.140.253:37965] logged in with entity id 53939 at (-2838.3376585908595, 118.0, 2930.533595148862)
 [05Sep2024 23:07:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
 [05Sep2024 23:07:09.081] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[05Sep2024 23:12:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 23:12:46.312] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[05Sep2024 23:12:46.317] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[05Sep2024 23:12:46.320] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[05Sep2024 23:12:46.336] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[05Sep2024 23:12:46.339] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[05Sep2024 23:12:46.342] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[05Sep2024 23:12:46.345] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[05Sep2024 23:12:46.348] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[05Sep2024 23:12:46.350] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[05Sep2024 23:12:53.757] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[05Sep2024 23:12:53.758] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[05Sep2024 23:12:54.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 23:15:49.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[05Sep2024 23:16:52.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzxzzzzz
+[05Sep2024 23:17:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzzzzz
+[05Sep2024 23:17:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> pera estoy volando
+[05Sep2024 23:17:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> wzzzzzzzzzzzzzzzz
+[05Sep2024 23:19:18.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
