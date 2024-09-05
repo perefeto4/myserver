@@ -176,3 +176,13 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 20:14:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
 [05Sep2024 20:14:15.315] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
 [05Sep2024 20:14:18.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[05Sep2024 20:53:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Those Were the Days]
+[05Sep2024 20:54:07.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombified Piglin
+[05Sep2024 20:54:07.123] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 20:55:31.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [War Pigs]
+[05Sep2024 20:57:36.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Piglin Brute
+[05Sep2024 20:57:36.949] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 20:58:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Piglin Brute
+[05Sep2024 20:58:36.241] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 21:00:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Piglin Brute
+[05Sep2024 21:00:31.592] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
