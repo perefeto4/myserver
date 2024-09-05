@@ -106,3 +106,11 @@
 [05Sep2024 01:06:34.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194348, l='ServerLevel[world]', x=-2151.50, y=60.35, z=400.50] died, message: 'Unemployed tried to swim in lava'
 [05Sep2024 01:07:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
 [05Sep2024 01:07:46.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194583, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
+[05Sep2024 01:15:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[05Sep2024 01:15:27.046] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 01:15:29.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
+[05Sep2024 01:15:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[05Sep2024 01:16:10.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:55727] logged in with entity id 195980 at (-2128.558716962601, 68.0, 397.6661039995786)
+[05Sep2024 01:16:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[05Sep2024 01:16:11.052] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[05Sep2024 01:17:06.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set 19 experience levels on seta32]
