@@ -2925,3 +2925,329 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 22:36:08.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2024 22:37:02.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
 [05Sep2024 22:37:02.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[05Sep2024 22:37:03.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[05Sep2024 22:37:03.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[05Sep2024 22:37:03.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[05Sep2024 22:37:03.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[05Sep2024 22:37:03.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[05Sep2024 22:37:03.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[05Sep2024 22:37:03.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[05Sep2024 22:37:04.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Sep2024 22:37:31.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[05Sep2024 22:37:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[05Sep2024 22:37:39.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[05Sep2024 22:37:39.227] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[05Sep2024 22:37:39.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[05Sep2024 22:37:39.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[05Sep2024 22:37:39.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[05Sep2024 22:37:39.429] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[05Sep2024 22:37:39.479] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[05Sep2024 22:37:39.530] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, kuma_api, jade, geckolib, eeeabsmobs, immersive_aircraft, xaerominimap, waystones, xaeroworldmap, modernfix, jei, citadel, alexscaves, securitycraft, travelersbackpack, mixinextras, tombstone, takesapillage, architectury, balm, carryon, fallingtree, cloth_config, simplyswords, forge, mores, dungeons_arise]
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.6.3' from client : ACCEPTED
+[05Sep2024 22:37:39.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.9' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[05Sep2024 22:37:39.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[05Sep2024 22:37:39.579] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[05Sep2024 22:37:39.592] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[05Sep2024 22:37:39.592] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:39.592] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:39.629] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[05Sep2024 22:37:39.678] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[05Sep2024 22:37:39.728] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[05Sep2024 22:37:39.778] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[05Sep2024 22:37:39.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[05Sep2024 22:37:39.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:39.801] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:39.828] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[05Sep2024 22:37:39.878] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[05Sep2024 22:37:39.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[05Sep2024 22:37:39.977] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[05Sep2024 22:37:40.029] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[05Sep2024 22:37:40.079] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 17
+[05Sep2024 22:37:40.129] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[05Sep2024 22:37:40.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[05Sep2024 22:37:40.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[05Sep2024 22:37:40.216] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[05Sep2024 22:37:40.216] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.216] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.217] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[05Sep2024 22:37:40.217] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.217] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.229] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[05Sep2024 22:37:40.277] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[05Sep2024 22:37:40.329] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 22
+[05Sep2024 22:37:40.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 23
+[05Sep2024 22:37:40.430] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 24
+[05Sep2024 22:37:40.478] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 25
+[05Sep2024 22:37:40.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[05Sep2024 22:37:40.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[05Sep2024 22:37:40.792] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:40.793] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.029] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[05Sep2024 22:37:41.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.034] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.038] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.048] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.254] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[05Sep2024 22:37:41.254] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.254] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[05Sep2024 22:37:41.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.264] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[05Sep2024 22:37:41.264] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.264] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.269] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.273] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[05Sep2024 22:37:41.273] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Sep2024 22:37:41.281] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Sep2024 22:37:41.281] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Sep2024 22:37:41.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:49265] logged in with entity id 40384 at (-2843.2120444211405, 103.0, 2941.699999988079)
+[05Sep2024 22:37:41.360] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@31a0b507 into net.minecraft.network.Connection@3ffe2732
+[05Sep2024 22:37:41.379] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 177 classes
+[05Sep2024 22:37:41.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[05Sep2024 22:37:41.439] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[05Sep2024 22:37:41.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[05Sep2024 22:37:41.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[05Sep2024 22:37:41.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[05Sep2024 22:37:41.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[05Sep2024 22:37:41.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[05Sep2024 22:37:41.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[05Sep2024 22:37:41.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[05Sep2024 22:37:41.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[05Sep2024 22:37:41.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[05Sep2024 22:37:41.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[05Sep2024 22:37:41.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[05Sep2024 22:37:41.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[05Sep2024 22:37:41.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[05Sep2024 22:37:41.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[05Sep2024 22:37:41.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[05Sep2024 22:37:41.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[05Sep2024 22:37:41.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[05Sep2024 22:37:41.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[05Sep2024 22:37:41.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[05Sep2024 22:37:41.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[05Sep2024 22:37:41.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[05Sep2024 22:37:41.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[05Sep2024 22:37:41.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[05Sep2024 22:37:41.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[05Sep2024 22:37:41.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[05Sep2024 22:37:41.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[05Sep2024 22:37:41.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[05Sep2024 22:37:41.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[05Sep2024 22:37:41.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator
+[05Sep2024 22:37:41.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[05Sep2024 22:37:41.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[05Sep2024 22:37:41.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[05Sep2024 22:37:41.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[05Sep2024 22:37:43.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Sep2024 22:39:48.111] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_13 is being run through DFU (hash 33537b62427ed79a11fdfbd7bd7e834741242df13ed02a10fc9fa58b6e060bbf), this will cause launch time delays
+[05Sep2024 22:39:48.112] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[05Sep2024 22:39:50.085] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[05Sep2024 22:39:50.092] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_1 is being run through DFU (hash b7db42b3373133cc4ecbb0b1e74c85081a95b5502212dbcd1aca0d405e0dfed7), this will cause launch time delays
+[05Sep2024 22:39:50.119] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[05Sep2024 22:39:50.127] [Worker-Main-63/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Sep2024 22:39:50.195] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_0 is being run through DFU (hash e8aed9b5ab5cbf33354402b799647bfa235df3c2d5c099c13e98b0eb5bb69eb7), this will cause launch time delays
+[05Sep2024 22:39:50.223] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_2 is being run through DFU (hash 37ec30cf99daa0d32decf572e7e276e8ac1e102b8fd6534052f1c495dc6c3729), this will cause launch time delays
+[05Sep2024 22:39:50.537] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[05Sep2024 22:39:50.552] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[05Sep2024 22:39:50.611] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[05Sep2024 22:39:50.623] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[05Sep2024 22:39:50.624] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[05Sep2024 22:39:50.624] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[05Sep2024 22:39:50.625] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[05Sep2024 22:39:50.626] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[05Sep2024 22:39:50.626] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[05Sep2024 22:39:50.627] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[05Sep2024 22:39:50.627] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[05Sep2024 22:39:50.665] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[05Sep2024 22:39:50.675] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[05Sep2024 22:39:50.679] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[05Sep2024 22:39:50.682] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[05Sep2024 22:39:50.686] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[05Sep2024 22:39:50.690] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[05Sep2024 22:39:50.726] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[05Sep2024 22:39:50.738] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[05Sep2024 22:39:50.741] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[05Sep2024 22:39:50.745] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[05Sep2024 22:39:50.749] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[05Sep2024 22:39:50.786] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[05Sep2024 22:39:50.833] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[05Sep2024 22:39:50.840] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[05Sep2024 22:39:50.841] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[05Sep2024 22:39:50.842] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[05Sep2024 22:39:50.842] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[05Sep2024 22:39:50.842] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[05Sep2024 22:39:50.843] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[05Sep2024 22:39:50.843] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[05Sep2024 22:39:50.844] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[05Sep2024 22:39:50.878] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[05Sep2024 22:39:50.912] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[05Sep2024 22:39:50.933] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[05Sep2024 22:39:50.954] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[05Sep2024 22:39:50.975] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[05Sep2024 22:39:50.995] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[05Sep2024 22:39:51.016] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[05Sep2024 22:39:51.022] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[05Sep2024 22:39:51.028] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[05Sep2024 22:39:51.031] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[05Sep2024 22:39:51.040] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[05Sep2024 22:39:51.041] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[05Sep2024 22:39:51.042] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[05Sep2024 22:39:51.046] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[05Sep2024 22:39:51.047] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[05Sep2024 22:39:51.126] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2024 22:39:51.127] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2024 22:39:51.306] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit is being run through DFU (hash dae2d72b198c77a2d8d771f3da2322814f13e3635deb04fa22d1386c01bf95e1), this will cause launch time delays
+[05Sep2024 22:39:51.376] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[05Sep2024 22:39:51.695] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[05Sep2024 22:39:51.797] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[05Sep2024 22:39:52.128] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[05Sep2024 22:39:52.139] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[05Sep2024 22:39:52.157] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[05Sep2024 22:39:52.188] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays
+[05Sep2024 22:39:52.212] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[05Sep2024 22:39:52.240] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[05Sep2024 22:39:52.286] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[05Sep2024 22:39:52.531] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[05Sep2024 22:39:52.653] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[05Sep2024 22:39:52.789] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[05Sep2024 22:39:52.833] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[05Sep2024 22:39:53.535] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[05Sep2024 22:39:53.658] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[05Sep2024 22:39:53.676] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[05Sep2024 22:39:53.690] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[05Sep2024 22:39:53.728] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[05Sep2024 22:39:53.745] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[05Sep2024 22:39:53.771] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[05Sep2024 22:39:53.801] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0 is being run through DFU (hash 11e19aea69133766b50315b545a97960abef3b3d49ba1b53f207cacb1c338ff1), this will cause launch time delays
+[05Sep2024 22:39:53.825] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0 is being run through DFU (hash 43e5ea92b24acd5811c79242d30e0944bda11c5459955742c76caab68a8512af), this will cause launch time delays
+[05Sep2024 22:39:53.844] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1 is being run through DFU (hash 43d348010044266fa1ebecea278cbaf06bf46b0760ca475df0db96fc84c5728d), this will cause launch time delays
+[05Sep2024 22:39:53.861] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0 is being run through DFU (hash d05348def440bed5535081202ced963b5cdeceab1baf844c082961f861a9f123), this will cause launch time delays
+[05Sep2024 22:39:53.881] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2 is being run through DFU (hash 68e5b942f2c0f2081c6742bf21823f42c5b8f88df211c1486d5e4ebcfbb6b2a2), this will cause launch time delays
+[05Sep2024 22:39:53.887] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0 is being run through DFU (hash cfeef20353dab1554b91d5146d44e06cc88f910761a1338d389d1e44c0e43fb4), this will cause launch time delays
+[05Sep2024 22:39:53.904] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1 is being run through DFU (hash bc21108b6e83db70a71abb9aa98f7d6131cfaec3938a71a57387663d3469c0e3), this will cause launch time delays
+[05Sep2024 22:39:53.925] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_0 is being run through DFU (hash 3802d8a0bcff5ef25a9e427b51a510d5785f67aa800cd384e61bfd0f23b58185), this will cause launch time delays
+[05Sep2024 22:39:53.935] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1 is being run through DFU (hash 27177270087c1d8562ffaf41dfbfeffdc9cdc335d297d6605585df780264b21b), this will cause launch time delays
+[05Sep2024 22:39:53.950] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_1 is being run through DFU (hash 2d3f22128285215fef42091a3e26e25e1c0afc9962efcd7724e1f43664f93157), this will cause launch time delays
+[05Sep2024 22:39:53.966] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0 is being run through DFU (hash 30a5c648bb6461a97f316b573b8e3d8f935d2075b738f2c099ab5981df5edfdd), this will cause launch time delays
+[05Sep2024 22:39:53.984] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2 is being run through DFU (hash b7657b0628e2bcde12093496b58f0c846ac979f5ac5f71c558c12232e74c5d69), this will cause launch time delays
+[05Sep2024 22:39:53.998] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0 is being run through DFU (hash 507f186f533cc67f7fbe185d35853a8a0178b482a10b6b577273d57a6caa0748), this will cause launch time delays
+[05Sep2024 22:39:54.016] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1 is being run through DFU (hash ac7592243285092cc3ed8f7f85e6336bf9d62f3b813146964b3078e9e546784d), this will cause launch time delays
+[05Sep2024 22:39:54.093] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_19 is being run through DFU (hash a6f5f595f278290c8287b37d97b3d284dca4ad38e687b50c00fdd03891c472f0), this will cause launch time delays
+[05Sep2024 22:39:54.323] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_4 is being run through DFU (hash 8d1151ca0e8c67df35639764f4e39d925c182c205e22e94978125dd201cc0b7a), this will cause launch time delays
+[05Sep2024 22:39:54.483] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_6 is being run through DFU (hash e46f53858e980b1d8ae79a5d2fde086eb69788b2b9f163c5144b4ff1ce5479a1), this will cause launch time delays
+[05Sep2024 22:39:54.576] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_20 is being run through DFU (hash 555a15e63e56e3cd47564f603a834aa8f3ddf481c9cf00eee590a1ed81e75ab4), this will cause launch time delays
+[05Sep2024 22:39:54.784] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_25 is being run through DFU (hash 000149c0da949824b1081352a2611f42d81b0dca53c2f16a27177b365861f56a), this will cause launch time delays
+[05Sep2024 22:39:54.923] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_2 is being run through DFU (hash 44d53f5a5fe11013c258ba90183e6bcba737dafe91632bdcebb23e7883a2f79a), this will cause launch time delays
+[05Sep2024 22:39:55.018] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_18 is being run through DFU (hash 143b2779f4479b40add7e1bbcf46aa11901f05c809fea67c0d5fd47276af2da7), this will cause launch time delays
+[05Sep2024 22:39:55.161] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_7 is being run through DFU (hash b2694ec431350df16c640c1fae8389a86154cedcba31737635182852b596a2a0), this will cause launch time delays
+[05Sep2024 22:39:55.272] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_21 is being run through DFU (hash ec316de1010321bb99b7ea2af77d4a06e9e78d0cc2ce0451c027b10be2805c63), this will cause launch time delays
+[05Sep2024 22:39:55.589] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_0 is being run through DFU (hash 1ece8ff6f261d5ff16d92d33ffc49422cf73039c24824a8f5c3240a24a214bf1), this will cause launch time delays
+[05Sep2024 22:39:55.688] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_24 is being run through DFU (hash 53c77b73bd7d221f0b1d6dd73a8953ae4982bf2db3ed70115a38e18089c4ff18), this will cause launch time delays
+[05Sep2024 22:39:55.831] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_9 is being run through DFU (hash 0c33fb0128cf0fbeee056b786af2bea38c9d56f72ee1ba0efbc03fde2e3c01e0), this will cause launch time delays
+[05Sep2024 22:39:55.985] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_16 is being run through DFU (hash 9e741606c695f6b5e1fd43a969788f5420f4ef0daa67f53f2f61440bbd8a818b), this will cause launch time delays
+[05Sep2024 22:39:56.272] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_3 is being run through DFU (hash 875c253346308fc6eb37eb9cbbef8777e8f47b1f8fe54e22dc63169af0339af1), this will cause launch time delays
+[05Sep2024 22:39:56.485] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_17 is being run through DFU (hash 5039ee705dac5a177b36a0c5f2ef974545a46cc47fdd308bdf53b92b0f561247), this will cause launch time delays
+[05Sep2024 22:39:56.744] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_12 is being run through DFU (hash 6a8d0d16ee623c2c1f2d8fb5ba21cb96e280d383cc59f4c90e00dfa068343094), this will cause launch time delays
+[05Sep2024 22:39:56.995] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_22 is being run through DFU (hash de48a3f8c1c5556137d8bf7ddc6fa2a7a283726cf1c0260f30703fb1a04c6a34), this will cause launch time delays
+[05Sep2024 22:39:57.259] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_5 is being run through DFU (hash c1a2dd1ba3cc512b57b08bb7f913679b270d8edaa3139a843a619b5a5da8fa61), this will cause launch time delays
+[05Sep2024 22:39:57.658] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_14 is being run through DFU (hash c4d2a612671353470f63f8c340f24b45762115ab4d874d8f9b0843d2b995a4b3), this will cause launch time delays
+[05Sep2024 22:39:57.819] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_26 is being run through DFU (hash 05d823b1c883d0ab1e4cc1c01dcc7738ae606b707a9ad07b1ac7cd7227d3e53a), this will cause launch time delays
+[05Sep2024 22:39:57.967] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_15 is being run through DFU (hash 2bdb7b7e3eabd174a7c8d42def82fc3858320402f40385fcaa64aab6a0479e81), this will cause launch time delays
+[05Sep2024 22:39:58.134] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_1 is being run through DFU (hash ed111614cf0b974bc1c45d0762b19ab4649908cd79cfb6b6401186c35918df49), this will cause launch time delays
+[05Sep2024 22:39:58.242] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_23 is being run through DFU (hash 7f843bb4bb13ef9eefc17436d1dadaf8f68515400117c22607e25e86b93cb0d2), this will cause launch time delays
+[05Sep2024 22:39:58.480] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_11 is being run through DFU (hash 8494a6bcd4a6321fde03cc72a5a5408d0ff04679cac95f43aa1c62239fcfb111), this will cause launch time delays
+[05Sep2024 22:39:58.637] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_10 is being run through DFU (hash 840e6efea1284b8ddd43897c53adbe344bf5648f4c02976904f27fb145b6ca01), this will cause launch time delays
+[05Sep2024 22:39:58.812] [Worker-Main-63/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_8 is being run through DFU (hash 745c67f5d14c578a04ddb2528eac10df5447a62982d2f935ece1e1e72d6de15e), this will cause launch time delays
+[05Sep2024 22:39:59.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11578ms or 231 ticks behind
+[05Sep2024 22:41:20.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 22:41:20.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 22:41:26.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Sep2024 22:42:21.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[05Sep2024 22:42:29.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Sep2024 22:43:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Ghost Riders In The Sky]
+[05Sep2024 22:44:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Hoglin
+[05Sep2024 22:44:47.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2705, y:228, z:60, dim:minecraft:overworld]
+[05Sep2024 22:44:47.243] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:45:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2704.500000, 228.500000, 60.500000]
+[05Sep2024 22:45:35.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Sep2024 22:46:20.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 22:46:20.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 22:46:44.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was burnt to a crisp whilst fighting Wither Skeleton
+[05Sep2024 22:46:44.138] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2708, y:224, z:93, dim:minecraft:overworld]
+[05Sep2024 22:46:44.142] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:46:45.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[05Sep2024 22:46:45.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[05Sep2024 22:46:50.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[05Sep2024 22:46:50.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[05Sep2024 22:46:50.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[05Sep2024 22:46:50.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[05Sep2024 22:46:50.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[05Sep2024 22:46:50.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[05Sep2024 22:46:50.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[05Sep2024 22:46:50.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2707.500000, 224.500000, 93.500000]
+[05Sep2024 22:46:54.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Sep2024 22:47:00.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1

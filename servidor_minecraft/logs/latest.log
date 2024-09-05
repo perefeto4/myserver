@@ -232,3 +232,19 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 22:30:04.238] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
 [05Sep2024 22:35:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
 [05Sep2024 22:35:21.343] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:37:31.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[05Sep2024 22:37:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[05Sep2024 22:37:41.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:49265] logged in with entity id 40384 at (-2843.2120444211405, 103.0, 2941.699999988079)
+[05Sep2024 22:37:41.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[05Sep2024 22:37:41.439] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[05Sep2024 22:39:48.112] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[05Sep2024 22:39:51.126] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2024 22:39:51.127] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2024 22:39:59.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11578ms or 231 ticks behind
+[05Sep2024 22:43:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Ghost Riders In The Sky]
+[05Sep2024 22:44:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Hoglin
+[05Sep2024 22:44:47.243] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:45:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2704.500000, 228.500000, 60.500000]
+[05Sep2024 22:46:44.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was burnt to a crisp whilst fighting Wither Skeleton
+[05Sep2024 22:46:44.142] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:46:50.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -2707.500000, 224.500000, 93.500000]
