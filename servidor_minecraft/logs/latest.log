@@ -1,116 +1,191 @@
-[05Sep2024 00:03:57.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzzz
-[05Sep2024 00:04:02.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/167351, l='ServerLevel[world]', x=-938.15, y=84.92, z=1077.51] died, message: 'Unemployed was slain by Zombie'
-[05Sep2024 00:04:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzzzzzzzzz
-[05Sep2024 00:05:47.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[05Sep2024 00:07:08.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/170215, l='ServerLevel[world]', x=-936.06, y=77.00, z=1086.71] died, message: 'Unemployed hit the ground too hard'
-[05Sep2024 00:11:35.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[05Sep2024 00:13:24.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[05Sep2024 00:13:36.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! -6.606597862118633,-6.0,4.821885212886627
-[05Sep2024 00:14:10.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[05Sep2024 00:14:30.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! -0.5532371343147133,1.0,9.968955534864108
-[05Sep2024 00:14:30.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
-[05Sep2024 00:14:38.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! 1.5795755069575534,0.0,9.915628012850448
-[05Sep2024 00:14:51.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! 1.9192265820070133,6.298703146347776,8.149670668718954
-[05Sep2024 00:14:51.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4250ms or 85 ticks behind
-[05Sep2024 00:14:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 00:14:56.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175397, l='ServerLevel[world]', x=-2153.17, y=62.00, z=398.67] died, message: 'Unemployed was slain by seta32'
-[05Sep2024 00:14:56.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Neighborhood Brawl]
-[05Sep2024 00:14:56.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri moved too quickly! 3.189241084810874,3.7531999805212024,8.90086825363096
-[05Sep2024 00:15:02.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175281, l='ServerLevel[world]', x=-2160.41, y=62.88, z=400.48] died, message: 'Unemployed was slain by seta32'
-[05Sep2024 00:15:07.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175282, l='ServerLevel[world]', x=-2141.50, y=62.00, z=398.51] died, message: 'Unemployed was slain by seta32'
-[05Sep2024 00:15:11.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175279, l='ServerLevel[world]', x=-2142.49, y=62.00, z=400.70] died, message: 'Unemployed was slain by seta32'
-[05Sep2024 00:15:12.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175277, l='ServerLevel[world]', x=-2142.50, y=62.00, z=400.45] died, message: 'Unemployed was slain by seta32'
-[05Sep2024 00:15:17.996] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[05Sep2024 00:15:17.997] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[05Sep2024 00:15:23.229] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[05Sep2024 00:15:23.230] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[05Sep2024 00:15:23.230] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[05Sep2024 00:15:23.238] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
-[05Sep2024 00:15:23.238] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
-[05Sep2024 00:15:34.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 00:17:25.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzzz
-[05Sep2024 00:17:30.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> zzzzzzzzzzzzzzzzzz
-[05Sep2024 00:17:31.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
-[05Sep2024 00:17:31.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
-[05Sep2024 00:17:40.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:47053] logged in with entity id 177703 at (-2884.835932839922, 95.0, 2558.809974813401)
-[05Sep2024 00:17:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
-[05Sep2024 00:17:41.004] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
-[05Sep2024 00:17:43.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
-[05Sep2024 00:19:31.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
-[05Sep2024 00:19:31.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
-[05Sep2024 00:19:40.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:49221] logged in with entity id 178799 at (-2150.914233573231, 62.0, 397.843185322908)
-[05Sep2024 00:19:40.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
-[05Sep2024 00:19:40.438] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
-[05Sep2024 00:22:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has made the advancement [Guns and Roses]
-[05Sep2024 00:23:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> acá si tendrás q ayudar con los comandos creo
-[05Sep2024 00:23:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> por?
-[05Sep2024 00:23:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> hace rato que me quite el admin
-[05Sep2024 00:23:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> son las torres rojas
-[05Sep2024 00:24:07.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> trataré de romper rápido los Spawn pero sino comandos por lag
-[05Sep2024 00:29:05.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri fell from a high place
-[05Sep2024 00:29:05.921] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:29:18.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> zzzzzzz
-[05Sep2024 00:30:47.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
-[05Sep2024 00:30:47.504] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:30:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
-[05Sep2024 00:30:58.017] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:31:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
-[05Sep2024 00:31:11.405] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:34:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
-[05Sep2024 00:34:42.752] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:36:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
-[05Sep2024 00:36:00.350] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:40:58.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/178801, l='ServerLevel[world]', x=-2142.30, y=62.00, z=393.55] died, message: 'Librarian was slain by seta32'
-[05Sep2024 00:41:19.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
-[05Sep2024 00:41:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
-[05Sep2024 00:41:26.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:35865] logged in with entity id 187219 at (-2149.1348997230716, 62.0, 396.02734661213964)
-[05Sep2024 00:41:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
-[05Sep2024 00:41:26.678] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
-[05Sep2024 00:43:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 00:44:31.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187249, l='ServerLevel[world]', x=-2156.30, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:45:20.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
-[05Sep2024 00:45:20.164] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:45:44.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187245, l='ServerLevel[world]', x=-2152.50, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:46:18.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187248, l='ServerLevel[world]', x=-2144.70, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:46:40.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/187246, l='ServerLevel[world]', x=-2146.70, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:47:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 00:48:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was killed trying to hurt Skeleton
-[05Sep2024 00:48:04.568] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
-[05Sep2024 00:49:11.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Zombie Doctor]
-[05Sep2024 00:49:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 00:50:24.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189133, l='ServerLevel[world]', x=-2150.62, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:51:05.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 00:52:12.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 00:52:15.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/187247, l='ServerLevel[world]', x=-2148.30, y=62.00, z=392.96] died, message: 'Fletcher was slain by seta32'
-[05Sep2024 00:52:41.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189548, l='ServerLevel[world]', x=-2152.50, y=62.56, z=392.50] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:52:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 00:53:23.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 00:54:05.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/189953, l='ServerLevel[world]', x=-2146.30, y=62.00, z=393.67] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:54:08.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
-[05Sep2024 00:54:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
-[05Sep2024 00:54:27.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/190058, l='ServerLevel[world]', x=-2144.30, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 00:54:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 00:56:32.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/190854, l='ServerLevel[world]', x=-2150.34, y=62.00, z=393.70] died, message: 'Librarian was slain by Zombie'
-[05Sep2024 01:00:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Made seta32 no longer a server operator]
-[05Sep2024 01:00:50.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
-[05Sep2024 01:00:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
-[05Sep2024 01:00:57.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:49473] logged in with entity id 191706 at (-2154.112948314057, 62.0, 399.05142371344044)
-[05Sep2024 01:00:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
-[05Sep2024 01:00:57.957] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
-[05Sep2024 01:01:05.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
-[05Sep2024 01:02:19.740] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/192187, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
-[05Sep2024 01:05:27.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194136, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
-[05Sep2024 01:05:35.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made seta32 a server operator
-[05Sep2024 01:05:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
-[05Sep2024 01:06:29.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Hot Stuff]
-[05Sep2024 01:06:34.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194348, l='ServerLevel[world]', x=-2151.50, y=60.35, z=400.50] died, message: 'Unemployed tried to swim in lava'
-[05Sep2024 01:07:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
-[05Sep2024 01:07:46.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194583, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
-[05Sep2024 01:15:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
-[05Sep2024 01:15:27.046] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
-[05Sep2024 01:15:29.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Timed out
-[05Sep2024 01:15:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
-[05Sep2024 01:16:10.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:55727] logged in with entity id 195980 at (-2128.558716962601, 68.0, 397.6661039995786)
-[05Sep2024 01:16:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
-[05Sep2024 01:16:11.052] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
-[05Sep2024 01:17:06.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set 19 experience levels on seta32]
+[05Sep2024 04:22:28.782] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Sep2024 04:22:28.794] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Sep2024 04:22:29.646] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Sep2024 04:22:29.718] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/myserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Sep2024 04:22:30.144] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[05Sep2024 04:22:30.150] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Sep2024 04:22:30.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Sep2024 04:22:30.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Sep2024 04:22:30.594] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Sep2024 04:22:30.598] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[05Sep2024 04:22:36.538] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Sep2024 04:22:36.661] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Sep2024 04:22:36.745] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Sep2024 04:22:36.956] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.9+mc1.20.1: 83 options available, 0 override(s) found
+[05Sep2024 04:22:36.958] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[05Sep2024 04:22:36.995] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[05Sep2024 04:22:42.703] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[05Sep2024 04:22:44.293] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (22.35 s after launch)
+[05Sep2024 04:22:45.008] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Sep2024 04:22:45.014] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Sep2024 04:22:49.127] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4826 milliseconds
+[05Sep2024 04:22:59.506] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Sep2024 04:22:59.654] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[05Sep2024 04:22:59.655] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[05Sep2024 04:23:07.738] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[05Sep2024 04:23:07.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[05Sep2024 04:23:07.894] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[05Sep2024 04:23:07.897] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[05Sep2024 04:23:07.899] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[05Sep2024 04:23:07.901] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[05Sep2024 04:23:08.012] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[05Sep2024 04:23:08.014] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[05Sep2024 04:23:08.033] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[05Sep2024 04:23:08.035] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[05Sep2024 04:23:08.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.10
+[05Sep2024 04:23:08.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[05Sep2024 04:23:08.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.15 Target: null
+[05Sep2024 04:23:08.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05Sep2024 04:23:08.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.7.2
+[05Sep2024 04:23:08.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Sep2024 04:23:08.436] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[05Sep2024 04:23:08.487] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Sep2024 04:23:08.524] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Sep2024 04:23:08.531] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Sep2024 04:23:08.533] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[05Sep2024 04:23:08.534] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[05Sep2024 04:23:08.536] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[05Sep2024 04:23:08.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[05Sep2024 04:23:09.268] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[05Sep2024 04:23:09.273] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[05Sep2024 04:23:09.274] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[05Sep2024 04:23:09.320] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Sep2024 04:23:09.651] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[05Sep2024 04:23:10.332] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
+[05Sep2024 04:23:10.334] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
+[05Sep2024 04:23:16.613] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[05Sep2024 04:23:18.506] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/shipwreck_treasure
+com.google.gson.JsonSyntaxException: Unknown type ''
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[05Sep2024 04:23:21.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[05Sep2024 04:23:21.538] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2601 advancements
+[05Sep2024 04:23:22.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Sep2024 04:23:22.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Sep2024 04:23:22.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Sep2024 04:23:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Sep2024 04:23:22.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Sep2024 04:23:22.273] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Sep2024 04:23:22.393] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Sep2024 04:23:22.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Sep2024 04:23:22.395] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Sep2024 04:23:22.395] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Sep2024 04:23:22.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Sep2024 04:23:23.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Sep2024 04:23:26.140] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:26.141] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:26.143] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:26.145] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:26.147] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:27.480] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:27.489] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:27.508] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:27.721] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:28.392] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2024 04:23:29.034] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5315 ms
+[05Sep2024 04:23:29.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.616s)! For help, type "help"
+[05Sep2024 04:23:29.853] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Sep2024 04:23:29.867] [Server thread/WARN] [ModernFix/]: Dedicated server took 67.922 seconds to load
+[05Sep2024 04:24:37.853] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Sep2024 04:24:38.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.125.145.200:52477] logged in with entity id 350 at (-2146.017928139802, 68.0, 399.2285687384043)
+[05Sep2024 04:24:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[05Sep2024 04:24:38.939] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[05Sep2024 04:24:40.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[05Sep2024 04:25:03.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8168ms or 163 ticks behind
+[05Sep2024 04:28:16.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Drowned
+[05Sep2024 04:28:16.518] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:28:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[05Sep2024 04:28:41.390] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:29:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombie
+[05Sep2024 04:29:06.490] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 04:31:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 burned to death
+[05Sep2024 04:31:20.998] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
