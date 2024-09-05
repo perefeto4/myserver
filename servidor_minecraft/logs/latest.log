@@ -191,3 +191,6 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 21:16:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Zombified Piglin
 [05Sep2024 21:16:30.647] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [05Sep2024 21:20:54.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[05Sep2024 21:23:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 21:25:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was chopped to bits by Skirmisher
+[05Sep2024 21:25:18.240] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved

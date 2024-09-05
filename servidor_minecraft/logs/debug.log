@@ -2462,3 +2462,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 21:20:54.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
 [05Sep2024 21:21:08.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2024 21:21:08.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 21:23:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 21:25:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was chopped to bits by Skirmisher
+[05Sep2024 21:25:18.233] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-2127, y:71, z:423, dim:minecraft:overworld]
+[05Sep2024 21:25:18.240] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 21:26:08.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 21:26:08.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 21:31:08.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 21:31:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
