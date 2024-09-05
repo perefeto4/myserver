@@ -224,3 +224,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 22:20:55.696] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [05Sep2024 22:23:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was stung to death
 [05Sep2024 22:23:05.846] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 22:29:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
+[05Sep2024 22:29:16.493] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 22:29:43.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
+[05Sep2024 22:29:43.189] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 22:30:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
+[05Sep2024 22:30:04.238] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 22:35:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 fell from a high place
+[05Sep2024 22:35:21.343] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
