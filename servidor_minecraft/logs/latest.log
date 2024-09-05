@@ -98,3 +98,11 @@
 [05Sep2024 01:00:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
 [05Sep2024 01:00:57.957] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
 [05Sep2024 01:01:05.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[05Sep2024 01:02:19.740] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/192187, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
+[05Sep2024 01:05:27.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194136, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
+[05Sep2024 01:05:35.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made seta32 a server operator
+[05Sep2024 01:05:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[05Sep2024 01:06:29.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Hot Stuff]
+[05Sep2024 01:06:34.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194348, l='ServerLevel[world]', x=-2151.50, y=60.35, z=400.50] died, message: 'Unemployed tried to swim in lava'
+[05Sep2024 01:07:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[05Sep2024 01:07:46.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194583, l='ServerLevel[world]', x=-2150.50, y=62.00, z=402.50] died, message: 'Librarian suffocated in a wall'
