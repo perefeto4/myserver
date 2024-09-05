@@ -2724,3 +2724,54 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 05:10:33.397] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [05Sep2024 05:13:40.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2024 05:13:40.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 05:15:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Cover Me with Diamonds]
+[05Sep2024 05:17:15.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[05Sep2024 05:17:15.333] [Server thread/DEBUG] [tombstone/]: A new grave of the player fabri was created at position [x:-2842, y:149, z:2918, dim:minecraft:overworld]
+[05Sep2024 05:17:15.358] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 05:17:17.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[05Sep2024 05:17:17.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[05Sep2024 05:17:17.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[05Sep2024 05:17:17.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[05Sep2024 05:17:17.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[05Sep2024 05:17:17.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[05Sep2024 05:17:17.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[05Sep2024 05:17:17.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[05Sep2024 05:17:17.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[05Sep2024 05:17:17.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[05Sep2024 05:17:17.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[05Sep2024 05:17:17.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[05Sep2024 05:17:17.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[05Sep2024 05:17:17.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[05Sep2024 05:17:17.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[05Sep2024 05:17:17.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[05Sep2024 05:17:17.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[05Sep2024 05:17:17.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[05Sep2024 05:17:17.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[05Sep2024 05:17:17.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[05Sep2024 05:17:17.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[05Sep2024 05:17:17.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[05Sep2024 05:17:17.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[05Sep2024 05:17:17.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[05Sep2024 05:17:17.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[05Sep2024 05:17:17.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[05Sep2024 05:17:17.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[05Sep2024 05:17:17.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[05Sep2024 05:17:17.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator
+[05Sep2024 05:17:17.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[05Sep2024 05:17:17.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[05Sep2024 05:17:17.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[05Sep2024 05:17:17.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[05Sep2024 05:17:18.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Sep2024 05:18:40.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 05:18:40.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 05:20:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 burned to death
+[05Sep2024 05:20:35.892] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-245, y:41, z:54, dim:minecraft:the_nether]
+[05Sep2024 05:20:35.893] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:21:56.417] [Worker-Main-45/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Sep2024 05:23:40.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2024 05:23:40.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2024 05:24:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has reached the goal [Fortuitous Militia]
+[05Sep2024 05:24:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 tried to swim in lava
+[05Sep2024 05:24:50.294] [Server thread/DEBUG] [tombstone/]: A new grave of the player seta32 was created at position [x:-184, y:37, z:80, dim:minecraft:the_nether]
+[05Sep2024 05:24:50.295] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:24:57.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind

@@ -221,3 +221,12 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 05:10:16.770] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
 [05Sep2024 05:10:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was chopped to bits by Skirmisher
 [05Sep2024 05:10:33.397] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:15:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has made the advancement [Cover Me with Diamonds]
+[05Sep2024 05:17:15.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was shot by Skeleton
+[05Sep2024 05:17:15.358] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 05:20:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 burned to death
+[05Sep2024 05:20:35.893] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:24:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri has reached the goal [Fortuitous Militia]
+[05Sep2024 05:24:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 tried to swim in lava
+[05Sep2024 05:24:50.295] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:24:57.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
