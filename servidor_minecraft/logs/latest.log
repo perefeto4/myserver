@@ -213,3 +213,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Sep2024 05:01:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 has reached the goal [Great minds think alike]
 [05Sep2024 05:02:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri was slain by Skeleton
 [05Sep2024 05:02:54.949] [Server thread/INFO] [tombstone/]: The player fabri has successfully been saved
+[05Sep2024 05:07:25.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Pillager
+[05Sep2024 05:07:25.592] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:08:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Vindicator
+[05Sep2024 05:08:50.603] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:10:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was shot by Pillager
+[05Sep2024 05:10:16.770] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[05Sep2024 05:10:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was chopped to bits by Skirmisher
+[05Sep2024 05:10:33.397] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
