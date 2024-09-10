@@ -1,0 +1,330 @@
+[09Sep2024 20:22:07.861] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09Sep2024 20:22:07.866] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[09Sep2024 20:22:08.378] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Sep2024 20:22:08.436] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/myserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Sep2024 20:22:08.959] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[09Sep2024 20:22:08.962] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Sep2024 20:22:08.964] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Sep2024 20:22:08.965] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Sep2024 20:22:09.183] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[09Sep2024 20:22:09.188] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[09Sep2024 20:22:13.157] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Sep2024 20:22:13.244] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09Sep2024 20:22:13.331] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Sep2024 20:22:13.458] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.9+mc1.20.1: 83 options available, 0 override(s) found
+[09Sep2024 20:22:13.461] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[09Sep2024 20:22:13.494] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[09Sep2024 20:22:17.722] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[09Sep2024 20:22:18.556] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.15 s after launch)
+[09Sep2024 20:22:18.775] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09Sep2024 20:22:18.776] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09Sep2024 20:22:20.571] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2010 milliseconds
+[09Sep2024 20:22:26.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[09Sep2024 20:22:26.836] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[09Sep2024 20:22:26.836] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[09Sep2024 20:22:32.711] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[09Sep2024 20:22:33.008] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[09Sep2024 20:22:33.008] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[09Sep2024 20:22:33.009] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[09Sep2024 20:22:33.009] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[09Sep2024 20:22:33.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[09Sep2024 20:22:33.114] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09Sep2024 20:22:33.115] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[09Sep2024 20:22:33.139] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09Sep2024 20:22:33.139] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[09Sep2024 20:22:33.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.10
+[09Sep2024 20:22:33.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[09Sep2024 20:22:33.443] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[09Sep2024 20:22:33.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.15 Target: null
+[09Sep2024 20:22:33.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[09Sep2024 20:22:33.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.7.3
+[09Sep2024 20:22:33.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Sep2024 20:22:33.486] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[09Sep2024 20:22:33.509] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[09Sep2024 20:22:33.514] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[09Sep2024 20:22:33.517] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[09Sep2024 20:22:33.520] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[09Sep2024 20:22:33.524] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[09Sep2024 20:22:33.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[09Sep2024 20:22:34.155] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[09Sep2024 20:22:34.161] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[09Sep2024 20:22:34.162] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[09Sep2024 20:22:34.192] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Sep2024 20:22:34.301] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[09Sep2024 20:22:34.650] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
+[09Sep2024 20:22:34.652] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
+[09Sep2024 20:22:38.898] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[09Sep2024 20:22:40.656] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/shipwreck_treasure
+com.google.gson.JsonSyntaxException: Unknown type ''
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23152!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[09Sep2024 20:22:42.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[09Sep2024 20:22:43.008] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2601 advancements
+[09Sep2024 20:22:43.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Sep2024 20:22:43.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Sep2024 20:22:43.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Sep2024 20:22:43.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Sep2024 20:22:43.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Sep2024 20:22:43.634] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Sep2024 20:22:43.733] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Sep2024 20:22:43.734] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Sep2024 20:22:43.735] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Sep2024 20:22:43.736] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Sep2024 20:22:43.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Sep2024 20:22:44.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Sep2024 20:22:46.880] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:46.881] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:46.881] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:46.882] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:46.882] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:47.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Sep2024 20:22:47.586] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2769 ms
+[09Sep2024 20:22:47.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.834s)! For help, type "help"
+[09Sep2024 20:22:47.690] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Sep2024 20:22:47.698] [Server thread/WARN] [ModernFix/]: Dedicated server took 43.296 seconds to load
+[09Sep2024 20:23:04.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[09Sep2024 20:23:05.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:47495] logged in with entity id 338 at (-2170.36167696579, 92.0, 1796.1637716278574)
+[09Sep2024 20:23:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[09Sep2024 20:23:05.273] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[09Sep2024 20:23:07.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.99.88.62:59641] logged in with entity id 468 at (-2128.351568172766, 82.0, 395.18745964891497)
+[09Sep2024 20:23:07.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[09Sep2024 20:23:07.659] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[09Sep2024 20:23:07.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[09Sep2024 20:23:35.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12653ms or 253 ticks behind
+[09Sep2024 20:25:55.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 moved wrongly!
+[09Sep2024 20:32:07.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[09Sep2024 20:32:25.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[09Sep2024 20:35:40.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Disconnected
+[09Sep2024 20:35:40.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[09Sep2024 20:38:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 20:38:22.201] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-20.38.22.dat
+[09Sep2024 20:38:22.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7627 Y: 143 Z: 63
+[09Sep2024 20:38:22.245] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:39:24.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 20:39:24.627] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:41:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 20:41:16.516] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:42:43.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[09Sep2024 20:43:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 20:43:23.627] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:47:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 20:47:13.619] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:53:12.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Sep2024 20:55:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 went off with a bang
+[09Sep2024 20:55:34.567] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-20.55.34.dat
+[09Sep2024 20:55:34.568] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7614 Y: 107 Z: 73
+[09Sep2024 20:55:34.571] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 20:55:38.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[09Sep2024 20:55:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[09Sep2024 20:56:10.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta32[/127.99.88.62:54599] logged in with entity id 13641 at (-7614.699999988079, 107.0, 73.82949094064473)
+[09Sep2024 20:56:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 joined the game
+[09Sep2024 20:56:11.069] [Server thread/INFO] [Jade/]: Syncing config to seta32 (783a71c4-ee80-3dd0-a435-8d75d88031d5)
+[09Sep2024 21:03:45.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[09Sep2024 21:14:14.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[09Sep2024 21:24:43.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Sep2024 21:24:48.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:24:48.290] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.24.48.dat
+[09Sep2024 21:24:48.293] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7656 Y: 71 Z: 63
+[09Sep2024 21:24:48.299] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:25:48.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:25:48.619] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.25.48.dat
+[09Sep2024 21:25:48.620] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7653 Y: 71 Z: 66
+[09Sep2024 21:25:48.624] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:26:42.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:26:42.669] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.26.42.dat
+[09Sep2024 21:26:42.670] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7654 Y: 71 Z: 66
+[09Sep2024 21:26:42.675] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:36:42.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:36:42.018] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.36.42.dat
+[09Sep2024 21:36:42.020] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7668 Y: 101 Z: 75
+[09Sep2024 21:36:42.027] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:37:33.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:37:33.481] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:38:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:38:06.874] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:39:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:39:00.216] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:45:54.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[09Sep2024 21:54:01.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was doomed to fall by Skeleton
+[09Sep2024 21:54:01.979] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.54.01.dat
+[09Sep2024 21:54:01.980] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7646 Y: 82 Z: 71
+[09Sep2024 21:54:01.983] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:56:19.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:56:19.120] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:56:25.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[09Sep2024 21:59:30.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:59:30.869] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-21.59.30.dat
+[09Sep2024 21:59:30.870] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7667 Y: 129 Z: 58
+[09Sep2024 21:59:30.874] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 21:59:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 21:59:54.120] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:00:32.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:00:32.894] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:00:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:00:49.306] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:01:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made seta32 a server operator
+[09Sep2024 22:01:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7665.500000, 129.500000, 58.500000]
+[09Sep2024 22:01:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:01:44.387] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:01:53.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Creative Mode]
+[09Sep2024 22:01:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7665.500000, 129.500000, 58.500000]
+[09Sep2024 22:02:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[09Sep2024 22:02:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:02:23.715] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:02:28.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7665.500000, 129.500000, 57.500000]
+[09Sep2024 22:03:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:03:22.479] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:04:46.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:04:46.417] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:07:02.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[09Sep2024 22:09:01.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:09:01.272] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:09:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:09:10.530] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:13:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Spectator Mode]
+[09Sep2024 22:16:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Set own game mode to Survival Mode]
+[09Sep2024 22:18:45.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 went off with a bang
+[09Sep2024 22:18:45.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-22.18.45.dat
+[09Sep2024 22:18:45.275] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7646 Y: 134 Z: 77
+[09Sep2024 22:18:45.281] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:18:52.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7644.500000, 134.500000, 77.500000]
+[09Sep2024 22:25:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:25:25.616] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-22.25.25.dat
+[09Sep2024 22:25:25.617] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7658 Y: 153 Z: 85
+[09Sep2024 22:25:25.620] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:25:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7657.500000, 153.500000, 85.500000]
+[09Sep2024 22:25:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:25:33.828] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:25:39.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7657.500000, 153.500000, 85.500000]
+[09Sep2024 22:25:57.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:25:57.115] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:26:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7653.500000, 153.500000, 80.500000]
+[09Sep2024 22:27:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 was slain by Skeleton
+[09Sep2024 22:27:22.922] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:27:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7653.500000, 167.500000, 75.500000]
+[09Sep2024 22:28:03.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[09Sep2024 22:35:41.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> z
+[09Sep2024 22:38:33.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[09Sep2024 22:44:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 went off with a bang
+[09Sep2024 22:44:24.064] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-22.44.24.dat
+[09Sep2024 22:44:24.065] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7666 Y: 183 Z: 65
+[09Sep2024 22:44:24.067] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:45:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 went off with a bang
+[09Sep2024 22:45:12.415] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:45:17.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [seta32: Teleported seta32 to -7662.500000, 179.500000, 69.500000]
+[09Sep2024 22:49:01.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Sep2024 22:52:23.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 went off with a bang
+[09Sep2024 22:52:23.616] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for seta32 with unique ID travelersbackpack.sheep_09.09.2024-22.52.23.dat
+[09Sep2024 22:52:23.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7660 Y: 208 Z: 64
+[09Sep2024 22:52:23.622] [Server thread/INFO] [tombstone/]: The player seta32 has successfully been saved
+[09Sep2024 22:59:28.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Sep2024 23:08:29.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri[/127.144.176.107:60353] logged in with entity id 51650 at (-2174.7296562318616, 97.0, 1793.463461196959)
+[09Sep2024 23:08:29.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri joined the game
+[09Sep2024 23:08:29.489] [Server thread/INFO] [Jade/]: Syncing config to fabri (10ec54f2-c5d4-35f8-b266-9ca5d363042c)
+[09Sep2024 23:08:36.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta32> safo
+[09Sep2024 23:08:37.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta32 lost connection: Disconnected
+[09Sep2024 23:08:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta32 left the game
+[09Sep2024 23:08:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri> aggg
+[09Sep2024 23:09:57.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09Sep2024 23:10:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Sep2024 23:10:24.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Sep2024 23:10:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Sep2024 23:10:24.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri lost connection: Server closed
+[09Sep2024 23:10:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri left the game
+[09Sep2024 23:10:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Sep2024 23:10:24.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Sep2024 23:10:26.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Sep2024 23:10:26.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Sep2024 23:10:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Sep2024 23:10:26.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Sep2024 23:10:26.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Sep2024 23:10:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
